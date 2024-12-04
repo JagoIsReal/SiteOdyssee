@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/classes/moine.png" alt="Moine" class="icon-title" data-no-zoom />
+  <img src="_media/classes/moine.png" alt="Moine" class="icon-title" data-no-zoom />
 
 # Moine <!-- {docsify-ignore} -->
 
@@ -21,7 +21,7 @@
     </div>
   </div>
   </div>
-  <img src="../_media/classes/pres-moine.png" alt="Moine" class="img-pres" data-no-zoom />
+  <img src="_media/classes/pres-moine.png" alt="Moine" class="img-pres" data-no-zoom />
 </div>
 
 # Capacités de classe

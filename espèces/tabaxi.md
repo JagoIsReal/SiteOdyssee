@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/especes/tabaxi.png" alt="Tabaxi" class="icon-r-title" data-no-zoom />
+  <img src="_media/especes/tabaxi.png" alt="Tabaxi" class="icon-r-title" data-no-zoom />
 
 # Tabaxi <!-- {docsify-ignore} -->
 
@@ -13,5 +13,5 @@
     <p>Les Tabaxis sont un peuple varié tant dans son attitude que dans son apparence.</p>
   </div>
   </div>
-  <img src="../_media/especes/pres-tabaxi.png" alt="Tabaxi" class="img-pres" data-no-zoom />
+  <img src="_media/especes/pres-tabaxi.png" alt="Tabaxi" class="img-pres" data-no-zoom />
 </div>

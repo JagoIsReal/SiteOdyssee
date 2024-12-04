@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/classes/barde.png" alt="Barde" class="icon-title" data-no-zoom />
+  <img src="_media/classes/barde.png" alt="Barde" class="icon-title" data-no-zoom />
 
 # Barde <!-- {docsify-ignore} -->
 
@@ -21,7 +21,7 @@
     </div>
   </div>
   </div>
-  <img src="../_media/classes/pres-barde.png" alt="Barde" class="img-pres" data-no-zoom />
+  <img src="_media/classes/pres-barde.png" alt="Barde" class="img-pres" data-no-zoom />
 </div>
 
 # Capacités de classe

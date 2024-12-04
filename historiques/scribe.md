@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/historiques/scribe.png" alt="Scribe" class="icon-title" data-no-zoom />
+  <img src="_media/historiques/scribe.png" alt="Scribe" class="icon-title" data-no-zoom />
 
 # Scribe <!-- {docsify-ignore} -->
 

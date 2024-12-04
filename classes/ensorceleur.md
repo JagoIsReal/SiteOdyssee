@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/classes/ensorceleur.png" alt="Ensorceleur" class="icon-title" data-no-zoom />
+  <img src="_media/classes/ensorceleur.png" alt="Ensorceleur" class="icon-title" data-no-zoom />
 
 # Ensorceleur <!-- {docsify-ignore} -->
 
@@ -21,7 +21,7 @@
     </div>
   </div>
   </div>
-  <img src="../_media/classes/pres-ensorceleur.png" alt="Ensorceleur" class="img-pres" data-no-zoom />
+  <img src="_media/classes/pres-ensorceleur.png" alt="Ensorceleur" class="img-pres" data-no-zoom />
 </div>
 
 # Capacités de classe

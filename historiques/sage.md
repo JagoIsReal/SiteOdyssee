@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/historiques/sage.png" alt="Sage" class="icon-title" data-no-zoom />
+  <img src="_media/historiques/sage.png" alt="Sage" class="icon-title" data-no-zoom />
 
 # Sage <!-- {docsify-ignore} -->
 

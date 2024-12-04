@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/classes/clerc.png" alt="Clerc" class="icon-title" data-no-zoom />
+  <img src="_media/classes/clerc.png" alt="Clerc" class="icon-title" data-no-zoom />
 
 # Clerc <!-- {docsify-ignore} -->
 
@@ -21,7 +21,7 @@
     </div>
   </div>
   </div>
-  <img src="../_media/classes/pres-clerc.png" alt="Clerc" class="img-pres" data-no-zoom />
+  <img src="_media/classes/pres-clerc.png" alt="Clerc" class="img-pres" data-no-zoom />
 </div>
 
 # Capacités de classe

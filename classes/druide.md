@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/classes/druide.png" alt="Druide" class="icon-title" data-no-zoom />
+  <img src="_media/classes/druide.png" alt="Druide" class="icon-title" data-no-zoom />
 
 # Druide <!-- {docsify-ignore} -->
 
@@ -21,7 +21,7 @@
     </div>
   </div>
   </div>
-  <img src="../_media/classes/pres-druide.png" alt="Druide" class="img-pres" data-no-zoom />
+  <img src="_media/classes/pres-druide.png" alt="Druide" class="img-pres" data-no-zoom />
 </div>
 
 # Capacités de classe

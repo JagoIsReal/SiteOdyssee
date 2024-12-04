@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/classes/occultiste.png" alt="Occultiste" class="icon-title" data-no-zoom />
+  <img src="_media/classes/occultiste.png" alt="Occultiste" class="icon-title" data-no-zoom />
 
 # Occultiste <!-- {docsify-ignore} -->
 
@@ -21,7 +21,7 @@
     </div>
   </div>
   </div>
-  <img src="../_media/classes/pres-occultiste.png" alt="Occultiste" class="img-pres" data-no-zoom />
+  <img src="_media/classes/pres-occultiste.png" alt="Occultiste" class="img-pres" data-no-zoom />
 </div>
 
 # Capacités de classe

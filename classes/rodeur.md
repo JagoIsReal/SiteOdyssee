@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/classes/rodeur.png" alt="Rôdeur" class="icon-title" data-no-zoom />
+  <img src="_media/classes/rodeur.png" alt="Rôdeur" class="icon-title" data-no-zoom />
 
 # Rôdeur <!-- {docsify-ignore} -->
 
@@ -21,7 +21,7 @@
     </div>
   </div>
   </div>
-  <img src="../_media/classes/pres-rodeur.png" alt="Rôdeur" class="img-pres" data-no-zoom />
+  <img src="_media/classes/pres-rodeur.png" alt="Rôdeur" class="img-pres" data-no-zoom />
 </div>
 
 # Capacités de classe

@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/classes/magicien.png" alt="Magicien" class="icon-title" data-no-zoom />
+  <img src="_media/classes/magicien.png" alt="Magicien" class="icon-title" data-no-zoom />
 
 # Magicien <!-- {docsify-ignore} -->
 
@@ -21,7 +21,7 @@
     </div>
   </div>
   </div>
-  <img src="../_media/classes/pres-magicien.png" alt="Magicien" class="img-pres" data-no-zoom />
+  <img src="_media/classes/pres-magicien.png" alt="Magicien" class="img-pres" data-no-zoom />
 </div>
 
 # Capacités de classe

@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/especes/gnome.png" alt="Gnome" class="icon-r-title" data-no-zoom />
+  <img src="_media/especes/gnome.png" alt="Gnome" class="icon-r-title" data-no-zoom />
 
 # Gnome <!-- {docsify-ignore} -->
 
@@ -13,5 +13,5 @@
     <p>Les gnomes sont des êtres magiques créés par les dieux de l'invention, des illusions et de la vie souterraine.</p>
   </div>
   </div>
-  <img src="../_media/especes/pres-gnome.png" alt="Gnome" class="img-pres" data-no-zoom />
+  <img src="_media/especes/pres-gnome.png" alt="Gnome" class="img-pres" data-no-zoom />
 </div>

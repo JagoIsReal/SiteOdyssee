@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/historiques/voyageur.png" alt="Voyageur" class="icon-title" data-no-zoom />
+  <img src="_media/historiques/voyageur.png" alt="Voyageur" class="icon-title" data-no-zoom />
 
 # Voyageur <!-- {docsify-ignore} -->
 

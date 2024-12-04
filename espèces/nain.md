@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/especes/nain.png" alt="Nain" class="icon-r-title" data-no-zoom />
+  <img src="_media/especes/nain.png" alt="Nain" class="icon-r-title" data-no-zoom />
 
 # Nain  <!-- {docsify-ignore} -->
 
@@ -13,5 +13,5 @@
     <p>Les nains ont été élevés de la terre dans les temps anciens par une divinité de la forge.</p>
   </div>
   </div>
-  <img src="../_media/especes/pres-nain.png" alt="Nain" class="img-pres" data-no-zoom />
+  <img src="_media/especes/pres-nain.png" alt="Nain" class="img-pres" data-no-zoom />
 </div>

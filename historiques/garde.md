@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/historiques/garde.png" alt="Garde" class="icon-title" data-no-zoom />
+  <img src="_media/historiques/garde.png" alt="Garde" class="icon-title" data-no-zoom />
 
 # Garde <!-- {docsify-ignore} -->
 

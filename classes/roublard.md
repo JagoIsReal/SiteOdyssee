@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/classes/roublard.png" alt="Roublard" class="icon-title" data-no-zoom />
+  <img src="_media/classes/roublard.png" alt="Roublard" class="icon-title" data-no-zoom />
 
 # Roublard <!-- {docsify-ignore} -->
 
@@ -21,7 +21,7 @@
     </div>
   </div>
   </div>
-  <img src="../_media/classes/pres-roublard.png" alt="Roublard" class="img-pres" data-no-zoom />
+  <img src="_media/classes/pres-roublard.png" alt="Roublard" class="img-pres" data-no-zoom />
 </div>
 
 # Capacités de classe
