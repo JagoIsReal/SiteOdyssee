@@ -33,14 +33,14 @@
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/règlement">
+    <a href="/SiteOdyssee/#/règlement">
       <!-- <img src="_media\classes\pres-barde.png" alt="Barde" data-no-zoom> -->
       <i class="fas fa-book home-icon"></i>
       <h3>Lire le règlement</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/espèces">
+    <a href="/SiteOdyssee/#/espèces">
       <!-- <img src="_media\classes\pres-clerc.png" alt="Clerc" data-no-zoom> -->
       <i class="fas fa-user-edit home-icon"></i>
       <h3>Créer votre personnage</h3>
