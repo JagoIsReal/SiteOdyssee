@@ -15,74 +15,74 @@ La plupart des espèces vivent jusqu'à 80 ans sauf exceptions notées dans les 
 
 <div class="gallery">
   <div class="gallery-item">
-    <a href="/#/espèces/aarakocra.md">
+    <a href="/#/espèces/aarakocra">
       <img src="_media\especes\pres-aarakocra.png" alt="Aarakocra" data-no-zoom>
       <h3>Aarakocra</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/espèces/aasimar.md">
-      <img src="_media\especes\pres-Aasimar.png" alt="Aasimar" data-no-zoom>
+    <a href="/#/espèces/aasimar">
+      <img src="_media\especes\pres-aasimar.png" alt="Aasimar" data-no-zoom>
       <h3>Aasimar</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/espèces/drakeide.md">
-      <img src="_media\especes\pres-Drakeide.png" alt="Drakéide" data-no-zoom>
+    <a href="/#/espèces/drakeide">
+      <img src="_media\especes\pres-drakeide.png" alt="Drakéide" data-no-zoom>
       <h3>Drakéide</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/espèces/elfe.md">
-      <img src="_media\especes\pres-Elfe.png" alt="Elfe" data-no-zoom>
+    <a href="/#/espèces/elfe">
+      <img src="_media\especes\pres-elfe.png" alt="Elfe" data-no-zoom>
       <h3>Elfe</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/espèces/gnome.md">
-      <img src="_media\especes\pres-Gnome.png" alt="Gnome" data-no-zoom>
+    <a href="/#/espèces/gnome">
+      <img src="_media\especes\pres-gnome.png" alt="Gnome" data-no-zoom>
       <h3>Gnome</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/espèces/goliath.md">
-      <img src="_media\especes\pres-Goliath.png" alt="Goliath" data-no-zoom>
+    <a href="/#/espèces/goliath">
+      <img src="_media\especes\pres-goliath.png" alt="Goliath" data-no-zoom>
       <h3>Goliath</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/espèces/halfelin.md">
-      <img src="_media\especes\pres-Halfelin.png" alt="Halfelin" data-no-zoom>
+    <a href="/#/espèces/halfelin">
+      <img src="_media\especes\pres-halfelin.png" alt="Halfelin" data-no-zoom>
       <h3>Halfelin</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/espèces/humain.md">
-      <img src="_media\especes\pres-Humain.png" alt="Humain" data-no-zoom>
+    <a href="/#/espèces/humain">
+      <img src="_media\especes\pres-humain.png" alt="Humain" data-no-zoom>
       <h3>Humain</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/espèces/nain.md">
-      <img src="_media\especes\pres-Nain.png" alt="Nain" data-no-zoom>
+    <a href="/#/espèces/nain">
+      <img src="_media\especes\pres-nain.png" alt="Nain" data-no-zoom>
       <h3>Nain</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/espèces/orc.md">
-      <img src="_media\especes\pres-Orc.png" alt="Orc" data-no-zoom>
+    <a href="/#/espèces/orc">
+      <img src="_media\especes\pres-orc.png" alt="Orc" data-no-zoom>
       <h3>Orc</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/espèces/tabaxi.md">
-      <img src="_media\especes\pres-Tabaxi.png" alt="Tabaxi" data-no-zoom>
+    <a href="/#/espèces/tabaxi">
+      <img src="_media\especes\pres-tabaxi.png" alt="Tabaxi" data-no-zoom>
       <h3>Tabaxi</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/#/espèces/tieffelin.md">
-      <img src="_media\especes\pres-Tieffelin.png" alt="Tieffelin" data-no-zoom>
+    <a href="/#/espèces/tieffelin">
+      <img src="_media\especes\pres-tieffelin.png" alt="Tieffelin" data-no-zoom>
       <h3>Tieffelin</h3>
     </a>
   </div>

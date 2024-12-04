@@ -16,98 +16,98 @@ L'historique de votre personnage est un ensemble de caractéristiques qui repré
 
 <div class="gallery">
   <div class="gallery-item-small">
-    <a href="/#/historiques/acolyte.md">
-      <img src="_media\historiques\Acolyte.png" alt="Acolyte" data-no-zoom>
+    <a href="/#/historiques/acolyte">
+      <img src="_media\historiques\acolyte.png" alt="Acolyte" data-no-zoom>
       <h3>Acolyte</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/artisan.md">
-      <img src="_media\historiques\Artisan.png" alt="Artisan" data-no-zoom>
+    <a href="/#/historiques/artisan">
+      <img src="_media\historiques\artisan.png" alt="Artisan" data-no-zoom>
       <h3>Artisan</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/artiste.md">
-      <img src="_media\historiques\Artiste.png" alt="Artiste" data-no-zoom>
+    <a href="/#/historiques/artiste">
+      <img src="_media\historiques\artiste.png" alt="Artiste" data-no-zoom>
       <h3>Artiste</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/charlatan.md">
-      <img src="_media\historiques\Charlatan.png" alt="Charlatan" data-no-zoom>
+    <a href="/#/historiques/charlatan">
+      <img src="_media\historiques\charlatan.png" alt="Charlatan" data-no-zoom>
       <h3>Charlatan</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/criminel.md">
-      <img src="_media\historiques\Criminel.png" alt="Criminel" data-no-zoom>
+    <a href="/#/historiques/criminel">
+      <img src="_media\historiques\criminel.png" alt="Criminel" data-no-zoom>
       <h3>Criminel</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/ermite.md">
-      <img src="_media\historiques\Ermite.png" alt="Ermite" data-no-zoom>
+    <a href="/#/historiques/ermite">
+      <img src="_media\historiques\ermite.png" alt="Ermite" data-no-zoom>
       <h3>Ermite</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/fermier.md">
-      <img src="_media\historiques\Fermier.png" alt="Fermier" data-no-zoom>
+    <a href="/#/historiques/fermier">
+      <img src="_media\historiques\fermier.png" alt="Fermier" data-no-zoom>
       <h3>Fermier</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/garde.md">
-      <img src="_media\historiques\Garde.png" alt="Garde" data-no-zoom>
+    <a href="/#/historiques/garde">
+      <img src="_media\historiques\garde.png" alt="Garde" data-no-zoom>
       <h3>Garde</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/guide.md">
-      <img src="_media\historiques\Guide.png" alt="Guide" data-no-zoom>
+    <a href="/#/historiques/guide">
+      <img src="_media\historiques\guide.png" alt="Guide" data-no-zoom>
       <h3>Guide</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/marchand.md">
-      <img src="_media\historiques\Marchand.png" alt="Marchand" data-no-zoom>
+    <a href="/#/historiques/marchand">
+      <img src="_media\historiques\marchand.png" alt="Marchand" data-no-zoom>
       <h3>Marchand</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/marin.md">
-      <img src="_media\historiques\Marin.png" alt="Marin" data-no-zoom>
+    <a href="/#/historiques/marin">
+      <img src="_media\historiques\marin.png" alt="Marin" data-no-zoom>
       <h3>Marin</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/noble.md">
-      <img src="_media\historiques\Noble.png" alt="Noble" data-no-zoom>
+    <a href="/#/historiques/noble">
+      <img src="_media\historiques\noble.png" alt="Noble" data-no-zoom>
       <h3>Noble</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/sage.md">
-      <img src="_media\historiques\Sage.png" alt="Sage" data-no-zoom>
+    <a href="/#/historiques/sage">
+      <img src="_media\historiques\sage.png" alt="Sage" data-no-zoom>
       <h3>Sage</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/scribe.md">
-      <img src="_media\historiques\Scribe.png" alt="Scribe" data-no-zoom>
+    <a href="/#/historiques/scribe">
+      <img src="_media\historiques\scribe.png" alt="Scribe" data-no-zoom>
       <h3>Scribe</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/soldat.md">
-      <img src="_media\historiques\Soldat.png" alt="Soldat" data-no-zoom>
+    <a href="/#/historiques/soldat">
+      <img src="_media\historiques\soldat.png" alt="Soldat" data-no-zoom>
       <h3>Soldat</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/historiques/voyageur.md">
-      <img src="_media\historiques\Voyageur.png" alt="Voyageur" data-no-zoom>
+    <a href="/#/historiques/voyageur">
+      <img src="_media\historiques\voyageur.png" alt="Voyageur" data-no-zoom>
       <h3>Voyageur</h3>
     </a>
   </div>

@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/especes/Tabaxi.png" alt="Tabaxi" class="icon-r-title" data-no-zoom />
+  <img src="../_media/especes/tabaxi.png" alt="Tabaxi" class="icon-r-title" data-no-zoom />
 
 # Tabaxi <!-- {docsify-ignore} -->
 

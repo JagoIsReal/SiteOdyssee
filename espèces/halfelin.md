@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/especes/Halfelin.png" alt="Halfelin" class="icon-r-title" data-no-zoom />
+  <img src="../_media/especes/halfelin.png" alt="Halfelin" class="icon-r-title" data-no-zoom />
 
 # Halfelin <!-- {docsify-ignore} -->
 

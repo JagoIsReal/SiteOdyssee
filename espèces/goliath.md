@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/especes/Goliath.png" alt="Goliath" class="icon-r-title" data-no-zoom />
+  <img src="../_media/especes/goliath.png" alt="Goliath" class="icon-r-title" data-no-zoom />
 
 # Goliath <!-- {docsify-ignore} -->
 

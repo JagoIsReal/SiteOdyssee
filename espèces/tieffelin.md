@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/especes/Tieffelin.png" alt="Tieffelin" class="icon-r-title" data-no-zoom />
+  <img src="../_media/especes/tieffelin.png" alt="Tieffelin" class="icon-r-title" data-no-zoom />
 
 # Tieffelin <!-- {docsify-ignore} -->
 

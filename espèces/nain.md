@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/especes/Nain.png" alt="Nain" class="icon-r-title" data-no-zoom />
+  <img src="../_media/especes/nain.png" alt="Nain" class="icon-r-title" data-no-zoom />
 
 # Nain  <!-- {docsify-ignore} -->
 

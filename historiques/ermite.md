@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/historiques/Ermite.png" alt="Ermite" class="icon-title" data-no-zoom />
+  <img src="../_media/historiques/ermite.png" alt="Ermite" class="icon-title" data-no-zoom />
 
 # Ermite <!-- {docsify-ignore} -->
 

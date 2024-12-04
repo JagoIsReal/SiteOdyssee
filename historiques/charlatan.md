@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/historiques/Charlatan.png" alt="Charlatan" class="icon-title" data-no-zoom />
+  <img src="../_media/historiques/charlatan.png" alt="Charlatan" class="icon-title" data-no-zoom />
 
 # Charlatan <!-- {docsify-ignore} -->
 

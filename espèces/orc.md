@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/especes/Orc.png" alt="Orc" class="icon-r-title" data-no-zoom />
+  <img src="../_media/especes/orc.png" alt="Orc" class="icon-r-title" data-no-zoom />
 
 # Orc <!-- {docsify-ignore} -->
 

@@ -1,5 +1,5 @@
 <div class="icon-container">
-  <img src="../_media/especes/Gnome.png" alt="Gnome" class="icon-r-title" data-no-zoom />
+  <img src="../_media/especes/gnome.png" alt="Gnome" class="icon-r-title" data-no-zoom />
 
 # Gnome <!-- {docsify-ignore} -->
 
