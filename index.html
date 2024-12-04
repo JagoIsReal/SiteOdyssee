@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Odyssée - Serveur RP OneD&D</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, minimum-scale=1.0"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css"
+    />
+    <link
+      rel="stylesheet"
+      href="//unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css"
+    />
+    <link
+      rel="stylesheet"
+      href="//unpkg.com/@fortawesome/fontawesome-free/css/brands.css"
+    />
+    <link
+      rel="stylesheet"
+      href="//unpkg.com/@fortawesome/fontawesome-free/css/regular.css"
+    />
+    <link
+      rel="stylesheet"
+      href="//unpkg.com/@fortawesome/fontawesome-free/css/solid.css"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/docsify-breadcrumb@latest/dist/breadcrumb.min.css"
+    />
+    <link rel="stylesheet" href="index.css" />
+    <link rel="icon" href="_media\OD.png" />
+  </head>
+  <body>
+    <div id="app"></div>
+
+    <button id="back-to-top">↑</button>
+    
+    <script src="script.js"></script>
+    <script>
+      window.$docsify = {
+        notFoundPage: true,
+        coverpage: true,
+        loadNavbar: true,
+        loadFooter: true,
+        homepage: 'index.md',
+        search: 'auto',
+        name: "Odyssée - Serveur RP OneD&D",
+        copyCode: {
+          buttonText: 'Cliquer pour copier',
+          errorText: 'Erreur',
+          successText: 'Copié dans le presse-papier',
+        },
+        search: [
+          '/',
+        ],
+        search: {
+          maxAge: 1,
+          paths: 'auto',
+          placeholder: "Rechercher...",
+          noData: "Aucun résultat !",
+          depth: 6,
+          hideOtherSidebarContent: false,
+          namespace: "website-1",
+        },
+        mermaidConfig: {
+          querySelector: ".mermaid",
+        },
+        breadcrumb: {
+          showHome: false,
+          homeText: "Accueil",
+          separator: " &rsaquo; ",
+          casing: "capitalize",
+          linkColor: "var(--theme-color, #42b983)",
+          size: "normal",
+        },
+        "flexible-alerts": {
+          note: {
+            label: "Note",
+          },
+          tip: {
+            label: "Astuce",
+          },
+          warning: {
+            label: "Attention",
+          },
+          attention: {
+            label: "Attention",
+          },
+        },
+      };
+    </script>
+
+    <!-- Core Docsify -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+
+    <!-- Plugins -->
+    <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
+    <script
+      src="https://kit.fontawesome.com/65dc7ade83.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
+    <script type="module">
+      import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+      mermaid.initialize({ startOnLoad: true, theme: "dark" });
+      window.mermaid = mermaid;
+    </script>
+    <script src="//cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="//unpkg.com/docsify-mermaid@2.0.1/dist/docsify-mermaid.js"></script>
+    <script src="//unpkg.com/docsify-mermaid-zoom/dist/docsify-mermaid-zoom.js"></script>
+    <script src="https://unpkg.com/docsify-betterembed@1.1.1/dist/betterEmbed.min.js"></script>
+    <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
+    <script src="//unpkg.com/docsify-pdf-embed-plugin/src/docsify-pdf-embed.js"></script>
+    <script src="https://unpkg.com/@h-hg/docsify-image-caption/dist/docsify-image-caption.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-breadcrumb@latest/dist/index.min.js"></script>
+    <script>
+      window.$docsify.plugins = [].concat(
+        window.$docsify.plugins || [],
+        function (hook) {
+          hook.doneEach(function () {
+            const breadcrumbs = document.querySelectorAll(".breadcrumb a");
+
+            breadcrumbs.forEach((link) => {
+              link.href = link.href.replace(/\/$/, "");
+            });
+          });
+        }
+      );
+    </script>
+  </body>
+</html>
