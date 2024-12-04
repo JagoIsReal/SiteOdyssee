@@ -1,1 +1,1 @@
-Modification des URLS HTML à prévoir lors du transfert vers un véritable nom de domaine.
+Modification des URLS HTML à prévoir lors du transfert vers un véritable nom de domaine
