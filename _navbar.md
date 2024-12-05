@@ -6,6 +6,7 @@
     * [Classes](classes.md)
     * [Métiers](métiers.md)
     * [Historiques](historiques.md)
+    * [Langues](langues.md)
 
 * [Codex](codex.md)
 

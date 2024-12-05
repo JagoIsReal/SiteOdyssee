@@ -2,6 +2,10 @@
 
 ---
 
+Chaque personnage est en mesure de connaître un métier. Ceux-ci ne sont pas liés de près ou de loin à l'aspect gameplay du jeu mais correspondent à notre système de jeu et notre RR.
+
+---
+
 <div class="gallery">
   <div class="gallery-item-small">
     <a href="/SiteOdyssee/#/métiers/apothicaire">

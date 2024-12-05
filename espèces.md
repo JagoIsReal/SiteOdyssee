@@ -2,12 +2,12 @@
 
 ---
 
-La plupart des espèces vivent jusqu'à 80 ans sauf exceptions notées dans les sections dédiées. Peu importe la durée de vie, les membres de toutes les espèces arrivent à maturité physique plus ou moins vers le même âge. Votre personnage doit avoir minimum **18 ans** et ne doit pas dépasser l'espérance de vie de son espèce.
+!> La plupart des espèces vivent jusqu'à 80 ans sauf exceptions notées dans les sections dédiées. Peu importe la durée de vie, les membres de toutes les espèces arrivent à maturité physique plus ou moins vers le même âge. Votre personnage doit avoir minimum **18 ans** et ne doit pas dépasser l'espérance de vie de son espèce.
 
-**Les espèces se décomposent ainsi :**
+**Les espèces** se décomposent ainsi : type de créature + taille + vitesse + longévité + traits spéciaux.
 
 - **Type de créature** : L'espèce de votre personnage détermine sa nature et donc son type.
-- **Taille** : L'espèce détermine la taille de votre personnage. Les individus d'une espèce couvre un large évantail de taille et quelques espèces sont tellement diversifiées qu'il est possible de choisir une taille dite **Petite (P)** ou **Moyenne (M)**.
+- **Taille** : La taille de votre personnage est déterminée par son espèce. Les individus d'une espèce couvre un large évantail de taille et quelques espèces sont tellement diversifiées qu'il est possible de choisir une taille dite **Petite (P)** ou **Moyenne (M)**.
 - **Vitesse** : L'espèce de votre personnage détermine aussi sa vitesse.
 - **Traits spéciaux** : Chaque espèce offre à votre personnage des traits spéciaux. Ce sont des caractéristiques uniques basées sur la physiologie ou la nature magique de l'espèce. Quand vous choisissez une espèce, votre personnage obtiendra tous ces traits spéciaux. Certains traits impliquent de faire un choix parmi plusieurs options.
 
