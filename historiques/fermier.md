@@ -17,4 +17,4 @@
 | **Dons** | Robuste |
 | **Compétences maîtrisées** | Dressage et Nature |
 | **Outil maîtrisé** | Outils de Charpentier |
-| **Équipement** | *Choisissez A ou B:* (A) Faucille, Outils de Charpentier, Kit de guérisseur, Pot en fer, Pelle, Vêtements de voyageur, 30 PO; ou (B) 50 PO |
+| **Équipement** | *Choisissez A ou B:* (A) Serpe, Outils de Charpentier, Kit de guérisseur, Pot en fer, Pelle, Vêtements de voyageur, 30 PO; ou (B) 50 PO |

@@ -1,4 +1,4 @@
-# Règlement
+# Règlement  <!-- {docsify-ignore} -->
 
 - [Communautaire](règlement/communautaire.md)
 - [Personnage](règlement/personnage.md)

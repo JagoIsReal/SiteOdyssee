@@ -8,7 +8,8 @@
     * [Historiques](historiques.md)
     * [Langues](langues.md)
 
-* [Codex](codex.md)
+* Codex <i class="fa-solid fa-chevron-down fa-2xs"></i>
+    * [Équipement](équipement.md)
 
 * [Sorts](_sorts.md)
 
