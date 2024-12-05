@@ -15,6 +15,6 @@
 | --------------------------- | |
 | **Caractéristiques** | Constitution, Sagesse, Charisme |
 | **Dons** | Guérisseur |
-| **Maîtrises de compétences** | Médecine et Religion |
-| **Maîtrises d'outils** | Kit d'herboriste |
+| **Compétences maîtrisées** | Médecine et Religion |
+| **Outil maîtrisé** | Kit d'herboriste |
 | **Équipement** | *Choisissez A ou B:* (A) Bâton, Kit d'herboriste, Livre (Philosophie), Lampe, Huile (3 flasques), Vêtements de voyageur, 16 PO; ou (B) 50 PO |

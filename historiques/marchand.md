@@ -15,6 +15,6 @@
 | --------------------------- | |
 | **Caractéristiques** | Constitution, Intelligence, Charisme |
 | **Dons** | Chanceux |
-| **Maîtrises de compétences** | Dressage et Persuasion |
-| **Maîtrises d'outils** | Outils de Navigateur |
+| **Compétences maîtrisées** | Dressage et Persuasion |
+| **Outil maîtrisé** | Outils de Navigateur |
 | **Équipement** | *Choisissez A ou B:* (A) Outils de Navigateur, 2 Bourses, Symbole sacré, Vêtements de voyageur, 22 PO; ou (B) 50 PO |

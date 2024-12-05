@@ -15,6 +15,6 @@
 | --------------------------- | |
 | **Caractéristiques** | Dextérité, Constitution, Sagesse |
 | **Dons** | Initiation à la magie (Druide) |
-| **Maîtrises de compétences** | Discrétion et Survie |
-| **Maîtrises d'outils** | Outils de Cartographe |
+| **Compétences maîtrisées** | Discrétion et Survie |
+| **Outil maîtrisé** | Outils de Cartographe |
 | **Équipement** | *Choisissez A ou B:* (A) Arc court, 20 Flèches, Outils de Cartographe, Paillasse, Carquois, Tente, Vêtements de voyageur, 3 PO; ou (B) 50 PO |

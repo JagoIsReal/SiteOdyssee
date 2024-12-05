@@ -15,6 +15,6 @@
 | --------------------------- | |
 | **Caractéristiques** | Force, Intelligence, Charisme |
 | **Dons** | Qualifié |
-| **Maîtrises de compétences** | Histoire et Persuasion |
-| **Maîtrises d'outils** | *Choisissez un type de kit de jeu* |
+| **Compétences maîtrisées** | Histoire et Persuasion |
+| **Outil maîtrisé** | *Choisissez un type de kit de jeu* |
 | **Équipement** | *Choisissez A ou B:* (A) Kit de jeu (similaire à celui plus haut), Vêtements raffinés, Parfum, 29 PO; ou (B) 50 PO |

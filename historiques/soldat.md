@@ -15,6 +15,6 @@
 | --------------------------- | |
 | **Caractéristiques** | Force, Dextérité, Constitution |
 | **Dons** | Attaquant sauvage |
-| **Maîtrises de compétences** | Athlétisme et Intimidation |
-| **Maîtrises d'outils** | *Choisissez un type de kit de jeu* |
+| **Compétences maîtrisées** | Athlétisme et Intimidation |
+| **Outil maîtrisé** | *Choisissez un type de kit de jeu* |
 | **Équipement** | *Choisissez A ou B:* (A) Lance, Arc court, 20 Flèches, Kit de jeu (similaire à celui plus haut), Kit de guérisseur, Carquois, Vêtements de voyageur, 14 PO; ou (B) 50 PO |

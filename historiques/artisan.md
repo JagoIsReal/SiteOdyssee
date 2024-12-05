@@ -15,6 +15,6 @@
 | --------------------------- | |
 | **Caractéristiques** | Force, Dextérité, Intelligence |
 | **Dons** | Artisan |
-| **Maîtrises de compétences** | Investigation et Persuasion |
-| **Maîtrises d'outils** | Choisissez un type d'outil d'artisan |
+| **Compétences maîtrisées** | Investigation et Persuasion |
+| **Outil maîtrisé** | Choisissez un type d'outil d'artisan |
 | **Équipement** | *Choisissez A ou B:* (A) Outils d'artisan (similaire à celui plus haut), 2 Bourses, des vêtements de voyageur, 32 PO; ou (B) 50 PO |

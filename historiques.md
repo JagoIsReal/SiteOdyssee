@@ -8,8 +8,8 @@ L'historique de votre personnage est un ensemble de caractéristiques qui repré
 
 - **Caractéristiques** : L'historique liste trois caractéristiques. Montez en une à 2 et une autre à 1 **ou** montez les trois à 1. Aucun de ces bonus ne peut faire monter la caractéristique au-delà de 20.
 - **Dons** : L'historique vous offre un don spécifique.
-- **Maîtrises de compétences** : L'historique offre à votre personnage la maîtrise de deux compétences spécifiées.
-- **Maîtrises d'outils** : Chaque historique offre au personnage une maîtrise d'outil. Il s'agira soit d'un outil spécifique, soit d'un outil choisi dans la page dédiée.
+- **Compétences maîtrisées** : L'historique offre à votre personnage la maîtrise de deux compétences spécifiées.
+- **Outil maîtrisé** : Chaque historique offre au personnage une maîtrise d'outil. Il s'agira soit d'un outil spécifique, soit d'un outil choisi dans la page dédiée.
 - **Équipement** : Chaque historique offre un choix entre une série d'équipement ou 50 PO.
 
 ---
