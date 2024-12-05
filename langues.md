@@ -2,11 +2,11 @@
 
 ---
 
-Votre personnage connaît au moins **trois langues** : le [commun](#commun) et deux autres langues. Connaître une langue revient à savoir la parler, l'écrire ou la lire. Votre classe et d'autres aspects peuvent également vous donner des langues.
+Votre personnage connaît au moins **trois langues** : le [commun](#commun-origine--sigil) et deux autres langues. Connaître une langue revient à savoir la parler, l'écrire ou la lire. Votre classe et d'autres aspects peuvent également vous donner des langues.
 
 # Langues communes
 
-Les langues communes sont plutôt répandues dans le monde. Chaque personnage connaît le [commun](#commun) qui provient de la métropole planaire de Sigil, le centre du multivers. Les autres langues sont nées avec les espèces qui les ont créées. Depuis, elles se sont tout autant répandues.
+Les langues communes sont plutôt répandues dans le monde. Chaque personnage connaît le [commun](#commun-origine--sigil) qui provient de la métropole planaire de Sigil, le centre du multivers. Les autres langues sont nées avec les espèces qui les ont créées. Depuis, elles se sont tout autant répandues.
 
 - #### **Commun** (Origine : Sigil) <!-- {docsify-ignore} -->
 - #### **Langage des signes** (Origine : Sigil) <!-- {docsify-ignore} -->
