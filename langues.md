@@ -4,9 +4,9 @@
 
 Votre personnage connaît au moins **trois langues** : le [commun](#commun) et deux autres langues. Connaître une langue revient à savoir la parler, l'écrire ou la lire. Votre classe et d'autres aspects peuvent également vous donner des langues.
 
-# Langues standards
+# Langues communes
 
-Les langues standards sont plutôt répandues dans le monde. Chaque personnage connaît le [commun](#commun) qui provient de la métropole planaire de Sigil, le centre du multivers. Les autres langues sont nées avec les espèces qui les ont créées. Depuis, elles se sont tout autant répandues.
+Les langues communes sont plutôt répandues dans le monde. Chaque personnage connaît le [commun](#commun) qui provient de la métropole planaire de Sigil, le centre du multivers. Les autres langues sont nées avec les espèces qui les ont créées. Depuis, elles se sont tout autant répandues.
 
 - #### **Commun** (Origine : Sigil)
 - #### **Langage des signes** (Origine : Sigil)
@@ -19,9 +19,9 @@ Les langues standards sont plutôt répandues dans le monde. Chaque personnage c
 - #### **Halfelin** (Origine : Halfelins)
 - #### **Orc** (Origine : Orcs)
 
-# Langues rares
+# Langues exotiques
 
-Les langues rares sont secrètes ou issues d'autres plans de l'existence. Par conséquent, celles-ci sont moins répandues au sein du plan matériel. Certains aspects permettent à votre personnage d'apprendre une langue rare.
+Les langues exotiques sont secrètes ou issues d'autres plans de l'existence. Par conséquent, celles-ci sont moins répandues au sein du plan matériel. Certains aspects permettent à votre personnage d'apprendre une langue exotique.
 
 - #### **Abyssal** (Origine : Démons des abysses)
 - #### **Céleste** (Origine : Célestes)
