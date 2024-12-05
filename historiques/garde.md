@@ -8,13 +8,13 @@
 ---
 
 <div class="texte-intro">
-  <p>Vous vous êtes consacré au service d'un temple, niché dans une ville ou retiré dans un bosquet sacré. Vous y avez accompli des rites en l'honneur d'un dieu ou d'un panthéon. Vous avez servi sous les ordres d'un prêtre et étudié la religion. Grâce à l'instruction de votre prêtre et à votre propre dévotion, vous avez également appris à canaliser un minimum de puissance divine au service de votre lieu de culte et des personnes qui y priaient.</p>
+  <p>Vos pieds vous font mal lorsque vous vous rappelez les innombrables heures que vous avez passées à votre poste dans la tour. On vous a appris à garder un œil sur l'extérieur du mur, à l'affût des maraudeurs venus de la forêt voisine, et l'autre œil sur l'intérieur du mur, à la recherche des coupe-jarrets et des fauteurs de troubles.</p>
 </div>
 
 | | |
 | --------------------------- | |
-| **Caractéristiques** | Intelligence, Sagesse, Charisme |
-| **Dons** | Initiation à la magie (Clerc) |
-| **Maîtrises de compétences** | Perspicacité et Religion |
-| **Maîtrises d'outils** | Outils de Calligraphe |
-| **Équipement** | *Choisissez A ou B:* (A) Outils de Calligraphe, Livre (Prières), Symbole sacré, Parchemin (10 feuilles), Robe, 8 PO; ou (B) 50 PO |
+| **Caractéristiques** | Force, Intelligence, Charisme |
+| **Dons** | Alerte |
+| **Maîtrises de compétences** | Athlétisme et Perception |
+| **Maîtrises d'outils** | *Choisissez un type de kit de jeu* |
+| **Équipement** | *Choisissez A ou B:* (A) Lance, Arbalète légère, 20 Carreaux, Kit de jeu (similaire à celui plus haut), Lanterne à capote, Menottes, Carquois, Vêtements de voyageur, 12 PO; ou (B) 50 PO |

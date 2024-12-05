@@ -8,13 +8,13 @@
 ---
 
 <div class="texte-intro">
-  <p>Vous vous êtes consacré au service d'un temple, niché dans une ville ou retiré dans un bosquet sacré. Vous y avez accompli des rites en l'honneur d'un dieu ou d'un panthéon. Vous avez servi sous les ordres d'un prêtre et étudié la religion. Grâce à l'instruction de votre prêtre et à votre propre dévotion, vous avez également appris à canaliser un minimum de puissance divine au service de votre lieu de culte et des personnes qui y priaient.</p>
+  <p>Vous avez été élevé dans un château, entouré de richesse, de pouvoir et de privilèges. Votre famille d'aristocrates mineurs a veillé à ce que vous receviez une éducation de premier ordre, que vous avez en partie appréciée et en partie détestée. Le temps passé au château, en particulier les nombreuses heures passées à observer votre famille à la cour, vous a également beaucoup appris sur le commandement. </p>
 </div>
 
 | | |
 | --------------------------- | |
-| **Caractéristiques** | Intelligence, Sagesse, Charisme |
-| **Dons** | Initiation à la magie (Clerc) |
-| **Maîtrises de compétences** | Perspicacité et Religion |
-| **Maîtrises d'outils** | Outils de Calligraphe |
-| **Équipement** | *Choisissez A ou B:* (A) Outils de Calligraphe, Livre (Prières), Symbole sacré, Parchemin (10 feuilles), Robe, 8 PO; ou (B) 50 PO |
+| **Caractéristiques** | Force, Intelligence, Charisme |
+| **Dons** | Qualifié |
+| **Maîtrises de compétences** | Histoire et Persuasion |
+| **Maîtrises d'outils** | *Choisissez un type de kit de jeu* |
+| **Équipement** | *Choisissez A ou B:* (A) Kit de jeu (similaire à celui plus haut), Vêtements raffinés, Parfum, 29 PO; ou (B) 50 PO |

@@ -8,13 +8,13 @@
 ---
 
 <div class="texte-intro">
-  <p>Vous vous êtes consacré au service d'un temple, niché dans une ville ou retiré dans un bosquet sacré. Vous y avez accompli des rites en l'honneur d'un dieu ou d'un panthéon. Vous avez servi sous les ordres d'un prêtre et étudié la religion. Grâce à l'instruction de votre prêtre et à votre propre dévotion, vous avez également appris à canaliser un minimum de puissance divine au service de votre lieu de culte et des personnes qui y priaient.</p>
+  <p>Vous avez commencé à vous entraîner à la guerre dès que vous avez atteint l'âge adulte et vous n'avez que très peu de souvenirs de la vie avant que vous ne preniez les armes. Vous avez le combat dans le sang. Parfois, vous vous surprenez à exécuter par réflexe les exercices de combat de base que vous avez appris en premier. Finalement, vous mettez cet entraînement à profit sur le champ de bataille, protégeant le royaume en faisant la guerre.</p>
 </div>
 
 | | |
 | --------------------------- | |
-| **Caractéristiques** | Intelligence, Sagesse, Charisme |
-| **Dons** | Initiation à la magie (Clerc) |
-| **Maîtrises de compétences** | Perspicacité et Religion |
-| **Maîtrises d'outils** | Outils de Calligraphe |
-| **Équipement** | *Choisissez A ou B:* (A) Outils de Calligraphe, Livre (Prières), Symbole sacré, Parchemin (10 feuilles), Robe, 8 PO; ou (B) 50 PO |
+| **Caractéristiques** | Force, Dextérité, Constitution |
+| **Dons** | Attaquant sauvage |
+| **Maîtrises de compétences** | Athlétisme et Intimidation |
+| **Maîtrises d'outils** | *Choisissez un type de kit de jeu* |
+| **Équipement** | *Choisissez A ou B:* (A) Lance, Arc court, 20 Flèches, Kit de jeu (similaire à celui plus haut), Kit de guérisseur, Carquois, Vêtements de voyageur, 14 PO; ou (B) 50 PO |

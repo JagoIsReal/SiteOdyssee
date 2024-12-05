@@ -8,13 +8,13 @@
 ---
 
 <div class="texte-intro">
-  <p>Vous vous êtes consacré au service d'un temple, niché dans une ville ou retiré dans un bosquet sacré. Vous y avez accompli des rites en l'honneur d'un dieu ou d'un panthéon. Vous avez servi sous les ordres d'un prêtre et étudié la religion. Grâce à l'instruction de votre prêtre et à votre propre dévotion, vous avez également appris à canaliser un minimum de puissance divine au service de votre lieu de culte et des personnes qui y priaient.</p>
+  <p>Vous avez grandi proche de la terre. Les années passées à s'occuper des animaux et à cultiver la terre vous ont récompensé de votre patience et de votre bonne santé. Vous appréciez beaucoup la générosité de la nature et vous avez un respect sain pour sa colère.</p>
 </div>
 
 | | |
 | --------------------------- | |
-| **Caractéristiques** | Intelligence, Sagesse, Charisme |
-| **Dons** | Initiation à la magie (Clerc) |
-| **Maîtrises de compétences** | Perspicacité et Religion |
-| **Maîtrises d'outils** | Outils de Calligraphe |
-| **Équipement** | *Choisissez A ou B:* (A) Outils de Calligraphe, Livre (Prières), Symbole sacré, Parchemin (10 feuilles), Robe, 8 PO; ou (B) 50 PO |
+| **Caractéristiques** | Force, Constitution, Sagesse |
+| **Dons** | Robuste |
+| **Maîtrises de compétences** | Dressage et Nature |
+| **Maîtrises d'outils** | Outils de Charpentier |
+| **Équipement** | *Choisissez A ou B:* (A) Faucille, Outils de Charpentier, Kit de guérisseur, Pot en fer, Pelle, Vêtements de voyageur, 30 PO; ou (B) 50 PO |

@@ -8,13 +8,13 @@
 ---
 
 <div class="texte-intro">
-  <p>Vous vous êtes consacré au service d'un temple, niché dans une ville ou retiré dans un bosquet sacré. Vous y avez accompli des rites en l'honneur d'un dieu ou d'un panthéon. Vous avez servi sous les ordres d'un prêtre et étudié la religion. Grâce à l'instruction de votre prêtre et à votre propre dévotion, vous avez également appris à canaliser un minimum de puissance divine au service de votre lieu de culte et des personnes qui y priaient.</p>
+  <p>Vous avez passé vos premières années isolé dans une hutte ou un monastère situé bien au-delà des limites du village le plus proche. À cette époque, vos seuls compagnons étaient les créatures de la forêt et ceux qui vous rendaient occasionnellement visite pour vous apporter des nouvelles du monde extérieur et du ravitaillement. La solitude vous permettait de passer de nombreuses heures à réfléchir aux mystères de la création. </p>
 </div>
 
 | | |
 | --------------------------- | |
-| **Caractéristiques** | Intelligence, Sagesse, Charisme |
-| **Dons** | Initiation à la magie (Clerc) |
-| **Maîtrises de compétences** | Perspicacité et Religion |
-| **Maîtrises d'outils** | Outils de Calligraphe |
-| **Équipement** | *Choisissez A ou B:* (A) Outils de Calligraphe, Livre (Prières), Symbole sacré, Parchemin (10 feuilles), Robe, 8 PO; ou (B) 50 PO |
+| **Caractéristiques** | Constitution, Sagesse, Charisme |
+| **Dons** | Guérisseur |
+| **Maîtrises de compétences** | Médecine et Religion |
+| **Maîtrises d'outils** | Kit d'herboriste |
+| **Équipement** | *Choisissez A ou B:* (A) Bâton, Kit d'herboriste, Livre (Philosophie), Lampe, Huile (3 flasques), Vêtements de voyageur, 16 PO; ou (B) 50 PO |

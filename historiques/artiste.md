@@ -8,13 +8,13 @@
 ---
 
 <div class="texte-intro">
-  <p>Vous vous êtes consacré au service d'un temple, niché dans une ville ou retiré dans un bosquet sacré. Vous y avez accompli des rites en l'honneur d'un dieu ou d'un panthéon. Vous avez servi sous les ordres d'un prêtre et étudié la religion. Grâce à l'instruction de votre prêtre et à votre propre dévotion, vous avez également appris à canaliser un minimum de puissance divine au service de votre lieu de culte et des personnes qui y priaient.</p>
+  <p>Vous avez passé une grande partie de votre jeunesse à suivre des foires et des carnavals itinérants, effectuant des petits boulots pour des musiciens et des acrobates en échange de leçons. Vous avez peut-être appris à marcher sur une corde raide, à jouer du luth dans un style particulier ou à réciter des poèmes avec une avec une diction impeccable. Aujourd'hui encore, vous aimez les applaudissements et vous vous languissez de la scène.</p>
 </div>
 
 | | |
 | --------------------------- | |
-| **Caractéristiques** | Intelligence, Sagesse, Charisme |
-| **Dons** | Initiation à la magie (Clerc) |
-| **Maîtrises de compétences** | Perspicacité et Religion |
-| **Maîtrises d'outils** | Outils de Calligraphe |
-| **Équipement** | *Choisissez A ou B:* (A) Outils de Calligraphe, Livre (Prières), Symbole sacré, Parchemin (10 feuilles), Robe, 8 PO; ou (B) 50 PO |
+| **Caractéristiques** | Force, Dextérité, Charisme |
+| **Dons** | Musicien |
+| **Maîtrises de compétences** | Acrobatie et Représentation |
+| **Maîtrises d'outils** | *Choisissez un type d'instrument de musique* |
+| **Équipement** | *Choisissez A ou B:* (A) Instrument de musique (similaire à celui plus haut), 2 Costumes, Miroir, Parfum, Vêtements de voyageur, 11 PO; ou (B) 50 PO |
