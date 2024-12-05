@@ -11,4 +11,4 @@
 
 <!-- background image -->
 
-![](_media/background.jpg)
+![](_media/background-smoke.webp)

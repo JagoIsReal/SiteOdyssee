@@ -252,6 +252,7 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
+    z-index: 99;
     box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
     transition: all 0.2s;
   }
