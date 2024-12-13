@@ -16,6 +16,10 @@
     text-align: justify;
   }
 
+  .summary p {
+    line-height: normal;
+  }
+
   li {
     text-align: justify;
   }
