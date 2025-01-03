@@ -119,3 +119,79 @@
 ```
 
 </details>
+
+<details>
+
+Si vous utilisez **[Conay](https://github.com/RatajVaver/conay)** (un launcher alternatif permettant d'avoir plusieurs modlists), créez un fichier .json "odyssee" et placez le dans le dossier ```servers``` de Conay.
+
+<summary><strong>Pour les utilisateurs de Conay</strong></summary>
+
+```
+{
+    "name": "odyssee",
+    "ip": "82.65.103.36:7777",
+    "mods": [
+        "1823412793/ModControlPanel.pak",
+        "3373599765/KnightsSanity.pak",
+        "1369802940/Emberlight.pak",
+        "2752945598/Beyond_Decor_II.pak",
+        "2474566370/Beyond_Decor.pak",
+        "3261081547/Beyond_Cities.pak",
+        "2250037083/RavencrestCouriers.pak",
+        "1414531358/Asghaard_deco_and_placeables.pak",
+        "2871328013/DungeonMasterTools.pak",
+        "1928978003/NorthernTimber.pak",
+        "1855055876/ArenaPier.pak",
+        "2095912535/Asghaard_Desert_Town.pak",
+        "2411388528/SandAndStone.pak",
+        "2279131041/Asghaard_Ancient_Civilization.pak",
+        "3162040476/Beyond_Architect.pak",
+        "2806095907/Dudes_Creative_Constructions.pak",
+        "3353695848/Dudes_Construction_Hammer.pak",
+        "3299815811/FireAndIce.pak",
+        "2723987721/Pythagoras_Support_Beams.pak",
+        "2744140111/SvS3.pak",
+        "1889798538/SvS2.pak",
+        "1705201022/SvS_Extended.pak",
+        "2854276803/EvilsCabinet.pak",
+        "3216398799/LadysOfEvil.pak",
+        "3073504073/Agonys-Attic.pak",
+        "2982469779/JCF.pak",
+        "3362177073/JCF2.pak",
+        "3086070534/JCACC.pak",
+        "3210360389/RRA.pak",
+        "3100719163/EvilSA.pak",
+        "3326354818/immersivearmor.pak",
+        "2963680793/LoD_MetalAndFlesh.pak",
+        "1976970830/GrimProductions.pak",
+        "3008860121/Cookie_Skinnery.pak",
+        "2050780234/BarbarianBarber.pak",
+        "3248573436/Attic-Hair.pak",
+        "3221682299/Sel_heads1.pak",
+        "2799362941/maleNewFaces.pak",
+        "3000822644/femaleLegacyFaces.pak",
+        "2772364595/femaleNewFaces.pak",
+        "3172623603/wrweazNewFaces_for_totCustom.pak",
+        "2794943951/HighmanesArsenal.pak",
+        "1629644846/KerozardsParagonLeveling.pak",
+        "933782986/ExilesExtreme.pak",
+        "2644416526/Beyond_Stations.pak",
+        "2097790925/TestingRaceMod.pak",
+        "2384014945/Grim_Wonderbody_reupload.pak",
+        "3350115820/ProjectNWNX.pak",
+        "2300463941/Devious_Desires.pak",
+        "1369743238/No_Building_Placement_Restrictions.pak",
+        "3361421897/ODMod.pak",
+        "3036057084/ModAdmin.pak",
+        "3036058836/RoleplayRedux.pak",
+        "2677532697/TotImmersiveHud.pak",
+        "2850232250/TotAdmin.pak",
+        "3296083010/TotModuleDeath.pak",
+        "2847709656/TotChat.pak",
+        "2886779102/TotCustom.pak",
+        "2762696414/matswapper.pak"
+    ]
+}
+```
+
+</details>
