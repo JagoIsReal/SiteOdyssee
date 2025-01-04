@@ -59,6 +59,7 @@
 
 ```
 ........\steamapps\workshop\content\440900\1823412793/ModControlPanel.pak
+........\steamapps\workshop\content\440900\3373599765\KnightsSanity.pak
 ........\steamapps\workshop\content\440900\1369802940/Emberlight.pak
 ........\steamapps\workshop\content\440900\2752945598/Beyond_Decor_II.pak
 ........\steamapps\workshop\content\440900\2474566370/Beyond_Decor.pak

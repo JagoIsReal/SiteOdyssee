@@ -11,12 +11,12 @@
 <div class="bloc-texte">
   <div class="texte">
     <p>Les nains ont été élevés de la terre dans les temps anciens par une divinité de la forge.</p>
-    <p>Leurs visages combinent les traits du perroquet et de l'aigle. Ils sont munis d'ailes et de serres. Les femelles tendent vers le brun, le gris ou le bleu tandis que les mâles ont une coloration plus châtoyante (rouge, orange ou encore jaune).</p>
+    <p>Ce qu'ils n'ont pas en taille, ils l'ont en masse. Taillés en un roc, les hommes sont souvent plus grands et lourds. Comme les humains, ils ont une grande variété de couleur de peau, d'yeux, de cheveux. Les hommes ont tendance à porter une barbe fournie mais les femmes peuvent également bien qu'elles ont tendance à s'adapter aux standards de beauté de la culture humaine.</p>
     <a href="#" target="_blank">En savoir plus sur l'espèce...</a>
     <div class="summary">
       <p><strong>Taille :</strong> Moyenne (1,30m à 1,50m)</p>
       <p><strong>Vitesse :</strong> 3 tiles</p>
-      <p><strong>Longévité :</strong> 30 ans maximum</p>
+      <p><strong>Longévité :</strong> 350 ans maximum</p>
     </div>
   </div>
   </div>
@@ -27,5 +27,7 @@
 
 ### Traits <!-- {docsify-ignore} -->
 
-- **Vol :** Lorsque vous volez, vous vous déplacez à 5 tiles par tour. Pour utiliser cette vitesse, vous ne devez pas porter d'armure intermédiaire ou lourde.
-- **Serres :** Vous maîtrisez vos armes naturelles, lesquelles infligent 1d4 de dégâts tranchants.
+- **Vision nocturne :** Vous avez une vision nocturne.
+- **Résistance naine :** Vous avez une résistance aux dégâts de poison. Vous avez également un avantage aux jets de sauvegarde afin d'éviter ou d'interrompre la condition Empoisonné.
+- **Robustesse naine :** Votre maximum de points de vie augmente de 1. Elle augmente également de 1 à chaque fois que vous gagnez un niveau.
+- **Connaissance de la pierre :** En utilisant une action bonus, vous gagnez la perception des vibrations dans un rayon de 18 mètres pendant 10 minutes. Vous devez être sur une surface en pierre ou la toucher pour pouvoir utiliser cette perception. La pierre peut être travaillée ou naturelle. Vous pouvez utiliser une action bonus un nombre de fois égal à votre bonus de maîtrise et vous regagnez ces utilisations après un long repos.
