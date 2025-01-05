@@ -5,6 +5,8 @@
 
 </div>
 
+?> Si vous souhaitez jouer un demi-orc, il vous faudra choisir entre les **traits mécaniques** d'un orc ou d'un [humain]().
+
 ---
 
 <div class="bloc-pres">

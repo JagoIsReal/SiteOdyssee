@@ -5,6 +5,8 @@
 
 </div>
 
+?> Si vous souhaitez jouer un demi-elfe, il vous faudra choisir entre les **traits mécaniques** d'un elfe ou d'un [humain]().
+
 ---
 
 <div class="bloc-pres">
