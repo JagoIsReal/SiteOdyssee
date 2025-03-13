@@ -1,8 +1,9 @@
-# Armes  <!-- {docsify-ignore} -->
+# Armes
+
+## Armes courantes de corps à corps
 
 | Nom | Dégâts | Propriété | Maîtrise |
 | :- | :- | :- | :- |
-| **Armes courantes de corps à corps** |  |  |  |
 | Gourdin | 1d4 Contondant | Légère | Ralentir |
 | Dague | 1d4 Perforant |  |  |
 | Massue | 1d8 Contondant |  |  |
@@ -13,12 +14,20 @@
 | Bâton |  |  |  |
 | Serpe |  |  |  |
 | Lance |  |  |  |
-| **Armes courantes à distance** |  |  |  |
+
+## Armes courantes à distance
+
+| Nom | Dégâts | Propriété | Maîtrise |
+| :- | :- | :- | :- |
 | Fléchette |  |  |  |
 | Arbalète légère |  |  |  |
 | Arc court |  |  |  |
 | Fronde |  |  |  |
-| **Armes de guerre de corps à corps** |  |  |  |
+
+## Armes de guerre de corps à corps
+
+| Nom | Dégâts | Propriété | Maîtrise |
+| :- | :- | :- | :- |
 | Hache d'armes |  |  |  |
 | Fléau |  |  |  |
 | Coutille |  |  |  |
@@ -37,7 +46,11 @@
 | Marteau de guerre |  |  |  |
 | Pic de guerre |  |  |  |
 | Fouet |  |  |  |
-| **Armes de guerre à distance** |  |  |  |
+
+## Armes de guerre à distance
+
+| Nom | Dégâts | Propriété | Maîtrise |
+| :- | :- | :- | :- |
 | Sarbacane |  |  |  |
 | Arbalète de poing |  |  |  |
 | Arbalète lourde |  |  |  |

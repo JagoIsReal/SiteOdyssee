@@ -35,4 +35,4 @@ Les langues exotiques sont secrètes ou issues d'autres plans de l'existence. Pa
 
 ?> Le **Druidique** est farouchement gardé par les cercles druidiques et ne peut être appris que par les druides.
 
-?> Le **Primordial** inclut les différents dialectes élémentaires. Les créatures qui connaissent au moins un de ces dialectes peut communiquer avec ceux en utilise un autre.
+?> Le **Primordial** inclut les différents dialectes élémentaires. Les créatures qui connaissent au moins un de ces dialectes peut communiquer avec ceux qui savent en parler un autre.
