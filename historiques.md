@@ -16,97 +16,97 @@ L'historique de votre personnage est un ensemble de caractéristiques qui repré
 
 <div class="gallery">
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/acolyte">
+    <a href="/#/historiques/acolyte">
       <img src="_media\historiques\acolyte.png" alt="Acolyte" data-no-zoom>
       <h3>Acolyte</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/artisan">
+    <a href="/#/historiques/artisan">
       <img src="_media\historiques\artisan.png" alt="Artisan" data-no-zoom>
       <h3>Artisan</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/artiste">
+    <a href="/#/historiques/artiste">
       <img src="_media\historiques\artiste.png" alt="Artiste" data-no-zoom>
       <h3>Artiste</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/charlatan">
+    <a href="/#/historiques/charlatan">
       <img src="_media\historiques\charlatan.png" alt="Charlatan" data-no-zoom>
       <h3>Charlatan</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/criminel">
+    <a href="/#/historiques/criminel">
       <img src="_media\historiques\criminel.png" alt="Criminel" data-no-zoom>
       <h3>Criminel</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/ermite">
+    <a href="/#/historiques/ermite">
       <img src="_media\historiques\ermite.png" alt="Ermite" data-no-zoom>
       <h3>Ermite</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/fermier">
+    <a href="/#/historiques/fermier">
       <img src="_media\historiques\fermier.png" alt="Fermier" data-no-zoom>
       <h3>Fermier</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/garde">
+    <a href="/#/historiques/garde">
       <img src="_media\historiques\garde.png" alt="Garde" data-no-zoom>
       <h3>Garde</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/guide">
+    <a href="/#/historiques/guide">
       <img src="_media\historiques\guide.png" alt="Guide" data-no-zoom>
       <h3>Guide</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/marchand">
+    <a href="/#/historiques/marchand">
       <img src="_media\historiques\marchand.png" alt="Marchand" data-no-zoom>
       <h3>Marchand</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/marin">
+    <a href="/#/historiques/marin">
       <img src="_media\historiques\marin.png" alt="Marin" data-no-zoom>
       <h3>Marin</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/noble">
+    <a href="/#/historiques/noble">
       <img src="_media\historiques\noble.png" alt="Noble" data-no-zoom>
       <h3>Noble</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/sage">
+    <a href="/#/historiques/sage">
       <img src="_media\historiques\sage.png" alt="Sage" data-no-zoom>
       <h3>Sage</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/scribe">
+    <a href="/#/historiques/scribe">
       <img src="_media\historiques\scribe.png" alt="Scribe" data-no-zoom>
       <h3>Scribe</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/soldat">
+    <a href="/#/historiques/soldat">
       <img src="_media\historiques\soldat.png" alt="Soldat" data-no-zoom>
       <h3>Soldat</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/SiteOdyssee/#/historiques/voyageur">
+    <a href="/#/historiques/voyageur">
       <img src="_media\historiques\voyageur.png" alt="Voyageur" data-no-zoom>
       <h3>Voyageur</h3>
     </a>

@@ -15,73 +15,73 @@
 
 <div class="gallery">
   <div class="gallery-item">
-    <a href="/SiteOdyssee/#/espèces/aarakocra">
+    <a href="/#/espèces/aarakocra">
       <img src="_media\especes\pres-aarakocra.png" alt="Aarakocra" data-no-zoom>
       <h3>Aarakocra</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/SiteOdyssee/#/espèces/aasimar">
+    <a href="/#/espèces/aasimar">
       <img src="_media\especes\pres-aasimar.png" alt="Aasimar" data-no-zoom>
       <h3>Aasimar</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/SiteOdyssee/#/espèces/drakeide">
+    <a href="/#/espèces/drakeide">
       <img src="_media\especes\pres-drakeide.png" alt="Drakéide" data-no-zoom>
       <h3>Drakéide</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/SiteOdyssee/#/espèces/elfe">
+    <a href="/#/espèces/elfe">
       <img src="_media\especes\pres-elfe.png" alt="Elfe" data-no-zoom>
       <h3>Elfe</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/SiteOdyssee/#/espèces/gnome">
+    <a href="/#/espèces/gnome">
       <img src="_media\especes\pres-gnome.png" alt="Gnome" data-no-zoom>
       <h3>Gnome</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/SiteOdyssee/#/espèces/goliath">
+    <a href="/#/espèces/goliath">
       <img src="_media\especes\pres-goliath.png" alt="Goliath" data-no-zoom>
       <h3>Goliath</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/SiteOdyssee/#/espèces/halfelin">
+    <a href="/#/espèces/halfelin">
       <img src="_media\especes\pres-halfelin.png" alt="Halfelin" data-no-zoom>
       <h3>Halfelin</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/SiteOdyssee/#/espèces/humain">
+    <a href="/#/espèces/humain">
       <img src="_media\especes\pres-humain.png" alt="Humain" data-no-zoom>
       <h3>Humain</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/SiteOdyssee/#/espèces/nain">
+    <a href="/#/espèces/nain">
       <img src="_media\especes\pres-nain.png" alt="Nain" data-no-zoom>
       <h3>Nain</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/SiteOdyssee/#/espèces/orc">
+    <a href="/#/espèces/orc">
       <img src="_media\especes\pres-orc.png" alt="Orc" data-no-zoom>
       <h3>Orc</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/SiteOdyssee/#/espèces/tabaxi">
+    <a href="/#/espèces/tabaxi">
       <img src="_media\especes\pres-tabaxi.png" alt="Tabaxi" data-no-zoom>
       <h3>Tabaxi</h3>
     </a>
   </div>
   <div class="gallery-item">
-    <a href="/SiteOdyssee/#/espèces/tieffelin">
+    <a href="/#/espèces/tieffelin">
       <img src="_media\especes\pres-tieffelin.png" alt="Tieffelin" data-no-zoom>
       <h3>Tieffelin</h3>
     </a>

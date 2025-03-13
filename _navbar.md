@@ -10,7 +10,3 @@
 
 * Codex <i class="fa-solid fa-chevron-down fa-2xs"></i>
     * [Équipement](équipement.md)
-
-* [Sorts](_sorts.md)
-
-* [Todo](_todo.md)
