@@ -1,8 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/OD.png)
-
-# Odyssée <small>0.1</small>
+![logo](_media/Odyssee.png)
 
 > Serveur RP OneD&D - Conan Exiles
 
