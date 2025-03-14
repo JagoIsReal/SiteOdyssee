@@ -16,5 +16,4 @@
 | **Caractéristiques** | Constitution, Intelligence, Sagesse |
 | **Dons** | Initiation à la magie (Magicien) |
 | **Compétences maîtrisées** | Arcanes et Histoire |
-| **Outil maîtrisé** | Fournitures de Cartographie |
-| **Équipement** | *Choisissez A ou B:* (A) Bâton, Fournitures de Cartographie, Livre (Histoire), Parchemin (8 feuilles), Robe, 8 PO; ou (B) 50 PO |
+| **Équipement** | Bâton, 49 PO |

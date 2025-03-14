@@ -4,13 +4,12 @@
 
 L'historique de votre personnage est un ensemble de caractéristiques qui représentent le lieu et l'occupation qui ont été les plus formateurs avant que votre personnage ne s'embarque dans une vie d'aventure sur Narathis. Chaque historique inclut un bref narratif qui décrit ce qui pourrait être le passé de votre personnage. **Modifiez les détails de ce récit comme bon vous semble, ce ne sont que des exemples.**
 
-**L'historique** se décompose ainsi : Bonus aux caractéristiques (ne devant pas dépasser 20) + maîtrise de 2 compétences et de 1 outil + équipement.
+**L'historique** se décompose ainsi : Bonus aux caractéristiques (ne devant pas dépasser 20) + un don de niveau 1 + 2 compétences maîtrisées + de l'équipement et des pièces d'or.
 
 - **Caractéristiques** : +2/+1 ou +1/+1/+1 dans les 3 caractéristiques proposées.
 - **Dons** : L'historique vous offre un **don de niveau 1**.
 - **Compétences maîtrisées** : Maîtrise de deux compétences spécifiées.
-- **Outil maîtrisé** : Offre au personnage une maîtrise d'outil. Il s'agira soit d'un outil spécifique, soit d'un outil choisi dans la page dédiée.
-- **Équipement** : Offre un choix entre une série d'équipement ou 50 PO.
+- **Équipement** : De l'équipement lié à l'historique et une certaine somme d'argent.
 
 ---
 

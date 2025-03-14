@@ -16,5 +16,4 @@
 | **Caractéristiques** | Force, Dextérité, Sagesse |
 | **Dons** | Bagarreur de taverne |
 | **Compétences maîtrisées** | Acrobatie et Perception |
-| **Outil maîtrisé** | Outils de Navigateur |
-| **Équipement** | *Choisissez A ou B:* (A) Dague, Outils de Navigateur, Corde, Vêtements de voyageur, 20 PO; ou (B) 50 PO |
+| **Équipement** | *Dague, 48 PO |

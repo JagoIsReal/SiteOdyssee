@@ -8,8 +8,9 @@ Votre personnage connaît au moins **trois langues** : le [commun](#commun-origi
 
 Les langues communes sont plutôt répandues dans le monde. Chaque personnage connaît le [commun](#commun-origine-sigil) qui provient de la métropole planaire de Sigil, le centre du multivers. Les autres langues sont nées avec les espèces qui les ont créées. Depuis, elles se sont tout autant répandues.
 
+!> **Sigil** est inconnu de votre personnage ou du moins relayé au rang de légende lointaine ou de concept ne pouvant être compris. Seul quelques archimages, prêtres spécifiques ou aventuriers exceptionnels ayant voyagé entre les plans aurait pu prendre connaissance de son existence.
+
 - #### **Commun** (Origine : Sigil) <!-- {docsify-ignore} -->
-- #### **Langage des signes** (Origine : Sigil) <!-- {docsify-ignore} -->
 - #### **Draconique** (Origine : Dragons) <!-- {docsify-ignore} -->
 - #### **Nain** (Origine : Nains) <!-- {docsify-ignore} -->
 - #### **Elfe** (Origine : Elfes) <!-- {docsify-ignore} -->

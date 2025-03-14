@@ -2,17 +2,20 @@
 
 ## Ayez un clan
 
-Dès lors que vous quittez la zone de départ, il faut que vous soyez dans un clan (même si vous êtes seul). Les constructions n'appartenant pas à un clan seront amenés à être supprimé sans avertissement quand ils seront trouvés. Aucun objet ne sera rendu.
+Dès lors que vous quittez la zone de départ, il faut que vous soyez dans un clan (même si vous êtes seul). Les constructions n'appartenant pas à un clan seront amenés à être supprimé sans avertissement quand ils seront trouvés. **Aucun objet ne sera rendu**.
 
 ## Restrictions de construction
 
-Le nombre de joueurs maximum dans un clan est de 6. Par conséquent, voici les restrictions :
+Le nombre de joueurs maximum dans un clan est de 6.
+
+Les paliers sont liés deux par deux afin d'offrir plus de flexibilité aux clans qui perdraient un membre. L'ajustement des pièces de constructions et des plaçables doit être effectué le plus rapidement possible lorsque vous n'êtes plus dans les clous.
 
 | Nombre de joueurs | Pièces de constructions | Plaçables |
 | :- | :-: | :-: |
 | 1-2 joueurs | 800 | 300 |
 | 3-4 joueurs | 1600 | 600 |
 | 5-6 joueurs | 2500 | 900 |
+
 
 ## Restez cohérent
 
@@ -22,9 +25,11 @@ Vos constructions se doivent d'être cohérent avec l'univers et l'environnement
 
 Évitez de coller d'autres constructions et cherchez à vous placer en un lieu propice, surtout s'il s'agit d'une grosse construction. Cela impacte la performance du serveur et des joueurs lorsqu'ils se trouvent dans ces zones.
 
+?> Une valeur correcte entre vous et vos voisins est d'environ 40 tiles que vous pouvez mesurer avec l'outil de mesure des distances de Roleplay Redux.
+
 ## Une construction par clan
 
-Vous n'avez le droit qu'à un lieu de vie par clan. Il ne peut pas être étendu par des téléporteurs ou autres moyens.
+Vous n'avez le droit qu'à un lieu de vie par clan. Il ne peut pas être étendu par des téléporteurs ou d'autres moyens.
 
 ## Pas de claim
 
@@ -56,8 +61,8 @@ Ne construisez pas en dehors des limites de la map car vos constructions seront 
 
 ## Vérification des constructions
 
-Lorsque vous passez une certaine période d'inactivité, votre personnage et vos constructions peuvent être supprimés. Signalez donc vos absences avec des dates afin de préserver votre lieu.
+Lorsque vous passez une certaine période d'inactivité, votre personnage et vos constructions peuvent être supprimés. Signalez donc vos absences **avec des dates** afin de préserver votre lieu.
 
 ## Plaçables avec inventaire
 
-Limitez l'utilisation des plaçables avec un inventaire et utilisez toujours si possible la version décorative de ce genre d'objet. La sur-utilisation de ce genre de plaçable peut amener à un réajustement demandé par le staff.
+Limitez l'utilisation des plaçables avec un inventaire et utilisez toujours si possible la version décorative de ce genre d'objet afin de préserver les performances du serveur. La sur-utilisation de ce genre de plaçable peut amener à un réajustement demandé par le staff.

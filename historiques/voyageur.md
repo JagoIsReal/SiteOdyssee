@@ -16,5 +16,4 @@
 | **Caractéristiques** | Dextérité, Sagesse, Charisme |
 | **Dons** | Chanceux |
 | **Compétences maîtrisées** | Perspicacité et Discrétion |
-| **Outil maîtrisé** | Outils de Voleur |
-| **Équipement** | *Choisissez A ou B:* (A) 2 Dagues, Outils de Voleur, Kit de jeu (n'importe lequel), Paillasse, 2 Bourses, Vêtements de voyageur, 16 PO; ou (B) 50 PO |
+| **Équipement** | 2 Dagues, 46 PO |

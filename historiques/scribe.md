@@ -16,5 +16,4 @@
 | **Caractéristiques** | Dextérité, Intelligence, Sagesse |
 | **Dons** | Qualifié |
 | **Compétences maîtrisées** | Investigation et Perception |
-| **Outil maîtrisé** | Fourniture de Calligraphie |
-| **Équipement** | *Choisissez A ou B:* (A) Fourniture de Calligraphie, Vêtements raffinés, Lampe, Huile (3 flasques), Parchemin (12 feuilles), 23 PO; ou (B) 50 PO |
+| **Équipement** | 50 PO |

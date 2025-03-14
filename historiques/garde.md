@@ -16,5 +16,4 @@
 | **Caractéristiques** | Force, Intelligence, Charisme |
 | **Dons** | Alerte |
 | **Compétences maîtrisées** | Athlétisme et Perception |
-| **Outil maîtrisé** | *Choisissez un type de kit de jeu* |
-| **Équipement** | *Choisissez A ou B:* (A) Lance, Arbalète légère, 20 Carreaux, Kit de jeu (similaire à celui plus haut), Lanterne à capote, Menottes, Carquois, Vêtements de voyageur, 12 PO; ou (B) 50 PO |
+| **Équipement** | Lance, Arbalète légère, 24 PO |

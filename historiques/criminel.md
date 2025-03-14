@@ -16,5 +16,4 @@
 | **Caractéristiques** | Dextérité, Constitution, Intelligence |
 | **Dons** | Alerte |
 | **Compétences maîtrisées** | Escamotage et Discrétion |
-| **Outil maîtrisé** | Outils de voleur |
-| **Équipement** | *Choisissez A ou B:* (A) 2 Dagues, Outils de voleur, Pied-de-biche, 2 Bourses, Vêtements de voyageur, 16 PO; ou (B) 50 PO |
+| **Équipement** | 2 Dagues, 46 PO |

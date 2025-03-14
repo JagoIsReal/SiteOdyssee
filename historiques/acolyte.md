@@ -16,5 +16,4 @@
 | **Caractéristiques** | Intelligence, Sagesse, Charisme |
 | **Dons** | Initiation à la magie (Clerc) |
 | **Compétences maîtrisées** | Perspicacité et Religion |
-| **Outil maîtrisé** | Outils de Calligraphe |
-| **Équipement** | *Choisissez A ou B:* (A) Outils de Calligraphe, Livre (Prières), Symbole sacré, Parchemin (10 feuilles), Robe, 8 PO; ou (B) 50 PO |
+| **Équipement** | 50 PO |

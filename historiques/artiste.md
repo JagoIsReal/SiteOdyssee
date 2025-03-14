@@ -16,5 +16,4 @@
 | **Caractéristiques** | Force, Dextérité, Charisme |
 | **Dons** | Musicien |
 | **Compétences maîtrisées** | Acrobatie et Représentation |
-| **Outil maîtrisé** | *Choisissez un type d'instrument de musique* |
-| **Équipement** | *Choisissez A ou B:* (A) Instrument de musique (similaire à celui plus haut), 2 Costumes, Miroir, Parfum, Vêtements de voyageur, 11 PO; ou (B) 50 PO |
+| **Équipement** | Instrument de musique, 30 PO |

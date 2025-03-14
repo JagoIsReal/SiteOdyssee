@@ -4,7 +4,7 @@
 
 Lorsque vous êtes connecté sur le serveur, vous êtes considéré RP. Vous ne pouvez pas dire que vous vous situez en un lieu de manière HRP ou que vous ne faites que passer HRP pour esquiver le roleplay qui vient à vous. Si vous souhaitez quitter la scène en cours, vous devez le signaler par une emote déclarant que votre personnage a l'intention de partir tout en donnant un temps raisonnable pour que celles et ceux autour puissent y répondre.
 
-Vous ne pouvez jouer que votre personnage et n'êtes pas en position d'interpréter un PNJ (même s'il s'agit de votre thrall). Si vous souhaitez discuter avec un PNJ, il est toujours possible d'en faire la demande par ticket.
+Vous ne pouvez jouer que votre personnage et n'êtes pas en position d'interpréter un PNJ (**même s'il s'agit de votre thrall**). Si vous souhaitez discuter avec un PNJ du monde, il est toujours possible d'en faire la demande par ticket.
 
 Le spawn est la seule zone considérée HRP (le temps de faire la création de votre personnage et les ajustements qui s'imposent).
 
@@ -30,7 +30,7 @@ Vous ne pouvez pas utiliser un objet que vous ne possédez pas réellement ou en
 
 Étant un serveur 18+, les contenus explicites peuvent être amenés sur la table. Il est donc essentiel de remplir votre fiche de consentement et de prendre connaissance de celles des autres lorsque vous entamez un roleplay spécifique avec une personne. Le non-respect de ces fiches peut amener à des sanctions. Les sujets pouvant être abordés sont les roleplay sexuellement explicites, la violence, la capture ou encore l'emprisonnement. Vous ne pouvez pas utiliser votre fiche de consentement pour éviter les conséquences dans le jeu (blessure, mutilation, etc.). Vous *pouvez* cependant demander une ellipse pour les détails de la scène.
 
-Lorsque vous commetez des actes spécifiques sur d'autres personnages, vous ne pouvez pas prétendre que cela est contraire à votre propre consentement si cela est tenté sur votre personnage.
+Lorsque vous commetez des actes spécifiques sur d'autres personnages, vous ne pouvez pas prétendre que cela est contraire à votre propre consentement si cela est tenté sur votre personnage en reto
 
 ## Pas de personnages ou de comportements enfantins
 

@@ -16,5 +16,4 @@
 | **Caractéristiques** | Force, Constitution, Sagesse |
 | **Dons** | Robuste |
 | **Compétences maîtrisées** | Dressage et Nature |
-| **Outil maîtrisé** | Outils de Charpentier |
-| **Équipement** | *Choisissez A ou B:* (A) Serpe, Outils de Charpentier, Kit de guérisseur, Pot en fer, Pelle, Vêtements de voyageur, 30 PO; ou (B) 50 PO |
+| **Équipement** | Serpe, 49 PO |

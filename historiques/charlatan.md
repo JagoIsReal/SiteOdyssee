@@ -16,5 +16,4 @@
 | **Caractéristiques** | Dextérité, Constitution, Charisme |
 | **Dons** | Qualifié |
 | **Compétences maîtrisées** | Tromperie et Escamotage |
-| **Outil maîtrisé** | Kit de falsification |
-| **Équipement** | *Choisissez A ou B:* (A) Kit de falsification, Costume, Vêtements raffinés, 15 PO; ou (B) 50 PO |
+| **Équipement** | 50 PO |
