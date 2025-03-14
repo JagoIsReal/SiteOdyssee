@@ -8,6 +8,11 @@
     --cover-button-background--hover: var(--theme-color);
   }
 
+  .app-name-link img {
+    width: 80%;
+    margin-top: 20px;
+  }
+
   .cover-main p {
     text-align: center;
   }

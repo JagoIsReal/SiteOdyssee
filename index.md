@@ -123,7 +123,7 @@
 
 <details>
 
-Si vous utilisez **[Conay](https://github.com/RatajVaver/conay)** (un launcher alternatif permettant d'avoir plusieurs modlists), créez un fichier .json "odyssee" et placez le dans le dossier ```servers``` de Conay.
+Si vous utilisez **[Conay](https://ratajmods.net/conay)** (un launcher alternatif permettant d'avoir plusieurs modlists), créez un fichier .json "odyssee" et placez le dans le dossier ```servers``` de Conay.
 
 <summary><strong>Pour les utilisateurs de Conay</strong></summary>
 
