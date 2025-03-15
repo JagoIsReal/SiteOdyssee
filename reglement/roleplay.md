@@ -1,4 +1,4 @@
-# Roleplay
+# Roleplay <!-- {docsify-ignore} -->
 
 ## Vous jouez toujours votre personnage
 

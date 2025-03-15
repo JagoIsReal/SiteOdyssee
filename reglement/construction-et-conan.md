@@ -1,4 +1,4 @@
-# Construction et Conan
+# Construction et Conan <!-- {docsify-ignore} -->
 
 ## Ayez un clan
 

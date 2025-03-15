@@ -1,4 +1,4 @@
-# Communautaire
+# Communautaire <!-- {docsify-ignore} -->
 
 ## Soyez respectueux
 

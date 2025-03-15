@@ -1,12 +1,12 @@
 * [Accueil](/#)
-* [Règlement](règlement.md)
+* [Règlement](reglement.md)
 
 * Création de personnage <i class="fa-solid fa-chevron-down fa-2xs"></i>
-    * [Espèces](espèces.md)
+    * [Espèces](especes.md)
     * [Classes](classes.md)
-    * [Métiers](métiers.md)
+    * [Métiers](metiers.md)
     * [Historiques](historiques.md)
     * [Langues](langues.md)
 
 * Codex <i class="fa-solid fa-chevron-down fa-2xs"></i>
-    * [Équipement](équipement.md)
+    * [Équipement](equipement.md)

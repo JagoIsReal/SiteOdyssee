@@ -1,4 +1,4 @@
-# Armes
+# Armes <!-- {docsify-ignore} -->
 
 ## Armes courantes de corps à corps
 
@@ -15,6 +15,8 @@
 | Serpe | 1d4 Tranchant | Légère | Entailler |
 | Lance | 1d6 Perforant | Lancer (portée 6 m/18 m), Versatile (1d8) | Affaiblir |
 
+<img src="_media/equipement/courantes-melee.png" alt="Armes courantes de corps à corps" class="equipment" data-no-zoom />
+
 ## Armes courantes à distance
 
 | Nom | Dégâts | Propriété | Maîtrise |
@@ -23,6 +25,8 @@
 | Arbalète légère | 1d8 Perforant | Munitions (portée 24 m/96 m), Chargement, Deux mains | Ralentir |
 | Arc court | 1d6 Perforant | Munitions (portée 24 m/96 m), Chargement | Provoquer |
 | Fronde | 1d4 Contondant | Munitions (portée 9 m/36 m) | Ralentir |
+
+<img src="_media/equipement/courantes-dist.png" alt="Armes courantes à distance" class="equipment" data-no-zoom />
 
 ## Armes de guerre de corps à corps
 
@@ -47,6 +51,8 @@
 | Pic de guerre | 1d8 Perforant | Versatile (1d10) | Affaiblir |
 | Fouet | 1d4 Tranchant | Finesse, Allonge | Ralentir |
 
+<img src="_media/equipement/guerre-melee.png" alt="Armes de guerre de corps à corps" class="equipment" data-no-zoom />
+
 ## Armes de guerre à distance
 
 | Nom | Dégâts | Propriété | Maîtrise |
@@ -57,3 +63,5 @@
 | Arc long | 1d8 Perforant |Munitions (portée 45 m/180 m), Lourd, Deux mains  | Ralentir |
 | Mousquet | 1d12 Perforant | Munitions (portée 12 m/36 m), Chargement, Deux mains | Ralentir |
 | Pistolet | 1d10 Perforant | Munitions (portée 9 m/27 m), Chargement | Provoquer |
+
+<img src="_media/equipement/guerre-dist.png" alt="Armes de guerre à distance" class="equipment" data-no-zoom />

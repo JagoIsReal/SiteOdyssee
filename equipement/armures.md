@@ -1,4 +1,4 @@
-# Armures 
+# Armures <!-- {docsify-ignore} -->
 
 ## Armures légères
 
@@ -12,7 +12,7 @@
 | :- | :- | :- | :- |
 | Bouclier | +2 | -- | -- |
 
-<img src="_media/equipement/legers-boucliers.png" alt="Armures légères et boucliers" class="armor" data-no-zoom />
+<img src="_media/equipement/legers-boucliers.png" alt="Armures légères et boucliers" class="equipment" data-no-zoom />
 
 ## Armures intermédiaires
 
@@ -24,7 +24,7 @@
 | Cuirasse | 14 + Mod. Dex (max +2) | -- | -- |
 | Demi-plate | 15 + Mod. Dex (max +2) | -- | Désavantage |
 
-<img src="_media/equipement/intermediaires.png" alt="Armures intermédiaires" class="armor" data-no-zoom />
+<img src="_media/equipement/intermediaires.png" alt="Armures intermédiaires" class="equipment" data-no-zoom />
 
 ## Armures lourdes
 
@@ -35,4 +35,4 @@
 | Clibanion | 17 | For 15 | Désavantage |
 | Harnois | 18 | For 15 | Désavantage |
 
-<img src="_media/equipement/lourds.png" alt="Armures lourdes" class="armor" data-no-zoom />
+<img src="_media/equipement/lourds.png" alt="Armures lourdes" class="equipment" data-no-zoom />
