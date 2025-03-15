@@ -1,4 +1,4 @@
-# Roleplay <!-- {docsify-ignore} -->
+# Roleplay
 
 ## Vous jouez toujours votre personnage
 
@@ -14,15 +14,13 @@ Les scènes doivent se poursuivre même en cas d'actions ou de problèmes pouvan
 
 ## Pas de métagaming
 
-> [!Note]
-> Le **"Métagaming"**, c'est utiliser des informations que **vous** possédez mais pas votre **personnage** pour ajuster ses actions. Cette pratique est souvent utilisée afin de se donner un avantage.
+?> Le **"Métagaming"**, c'est utiliser des informations que **vous** possédez mais pas votre **personnage** pour ajuster ses actions. Cette pratique est souvent utilisée afin de se donner un avantage.
 
 Vos personnages actuels ou passés ne peuvent en aucun cas interagir les uns avec les autres. Les informations, les connaissances et les scénarios ne doivent pas être poursuivis à la suite d'un reroll à moins que le nouveau personnage ne soit **correctement introduit** dans le récit par des moyens acceptables sur le serveur.
 
 ## Pas de powergaming / godmode
 
-> [!Note]
-> Le **"Godmode"** consiste à effectuer une action pour un autre joueur tandis que le **"Powergaming"** consiste à forcer un personnage à effectuer une action.
+?> Le **"Godmode"** consiste à effectuer une action pour un autre joueur tandis que le **"Powergaming"** consiste à forcer un personnage à effectuer une action.
 
 Vous ne pouvez pas utiliser un objet que vous ne possédez pas réellement ou encore utiliser un objet avec un effet qui n'est pas pris en charge par notre système de jeu.
 
@@ -54,8 +52,7 @@ Le /act ne peut être utilisé que dans certaines situations et selon ces règle
 
 ## Le LFRP
 
-> [!Note]
-> Le **"LFRP"** ou **"Looking for Roleplay"** est une fonction permettant de s'afficher sur la carte afin d'attirer d'autres joueurs jusqu'à vous pour roleplay.
+?> Le **"LFRP"** ou **"Looking for Roleplay"** est une fonction permettant de s'afficher sur la carte afin d'attirer d'autres joueurs jusqu'à vous pour roleplay.
 
 Lorsque vous utilisez le LFRP, assurez-vous de le faire uniquement quand nécessaire. Dès lors qu'un autre personnage vous rejoint, vous vous devez de le désactiver.
 

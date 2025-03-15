@@ -1,4 +1,4 @@
-# Armes <!-- {docsify-ignore} -->
+# Armes
 
 ## Armes courantes de corps à corps
 

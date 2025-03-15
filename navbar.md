@@ -10,3 +10,4 @@
 
 * Codex <i class="fa-solid fa-chevron-down fa-2xs"></i>
     * [Équipement](equipement.md)
+    * [Sorts](sorts.md)

@@ -1,4 +1,4 @@
-# Communautaire <!-- {docsify-ignore} -->
+# Communautaire
 
 ## Soyez respectueux
 
@@ -28,8 +28,7 @@ Ping le staff n'est autorisé qu'à l'intérieur des tickets et quand vous n'ave
 
 ## Pas de rules lawyering
 
-> [!Note]
-> Le **"Rules lawyering"** est une pratique visant à exploiter ou insister sur l'interprétation la plus littérale d'une règle, indépendamment du résultat ou de l'intention Bien souvent, cette pratique est utilisée afin d'obtenir un avantage quelconque.
+?> Le **"Rules lawyering"** est une pratique visant à exploiter ou insister sur l'interprétation la plus littérale d'une règle, indépendamment du résultat ou de l'intention Bien souvent, cette pratique est utilisée afin d'obtenir un avantage quelconque.
 
 En tant que joueur, vous n'avez pas à faire respecter ou imposer les règles aux autres. Si vous pensez que quelqu'un va à l'encontre des règles, vous pouvez le renvoyer une fois à la règle écrite à des fins pédagogiques mais vous ne devez pas le faire à plusieurs reprises au cours d'une scène. À ce stade, il est important de signaler le problème via le système de ticket sur notre Discord.
 

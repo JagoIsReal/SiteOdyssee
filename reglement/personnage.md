@@ -1,1 +1,1 @@
-# Personnage <!-- {docsify-ignore} -->
+# Personnage

@@ -1,4 +1,4 @@
-# Armures <!-- {docsify-ignore} -->
+# Armures
 
 ## Armures légères
 

@@ -28,20 +28,17 @@
   <div class="gallery-item">
     <a href="https://discord.gg/ZFxCyXwCjY" target="_blank">
       <i class="fab fa-discord home-icon"></i>
-      <!-- <img src="_media\classes\pres-barbare.png" alt="Barbare" data-no-zoom> -->
       <h3>Rejoindre le Discord</h3>
     </a>
   </div>
   <div class="gallery-item">
     <a href="#/reglement">
-      <!-- <img src="_media\classes\pres-barde.png" alt="Barde" data-no-zoom> -->
       <i class="fas fa-book home-icon"></i>
       <h3>Lire le règlement</h3>
     </a>
   </div>
   <div class="gallery-item">
     <a href="#/especes">
-      <!-- <img src="_media\classes\pres-clerc.png" alt="Clerc" data-no-zoom> -->
       <i class="fas fa-user-edit home-icon"></i>
       <h3>Créer votre personnage</h3>
     </a>
