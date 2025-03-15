@@ -8,6 +8,8 @@
 | Armure en cuir | 11 + Mod. Dex | -- | -- |
 | Armure en cuir clouté | 12 + Mod. Dex | -- | -- |
 
+![](_media/equipement/armures/legers-boucliers.png)
+
 ## Armures intermédiaires
 
 | Nom | Classe d'armure | Force | Discrétion |
