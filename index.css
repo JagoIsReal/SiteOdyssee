@@ -247,6 +247,8 @@
   .equipment {
     width: 80%;
     height: auto;
+    display: flex;
+    justify-self: center;
   }
 
   /* Fin introduction */
