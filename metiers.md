@@ -26,13 +26,13 @@ Chaque personnage est en mesure de connaître un métier. Ceux-ci ne sont pas li
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="//#/metiers/forgeron">
+    <a href="/#/metiers/forgeron">
       <img src="_media\metiers\forgeron.png" alt="Forgeron" data-no-zoom>
       <h3>Forgeron</h3>
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/metiers/récolteur">
+    <a href="/#/metiers/recolteur">
       <img src="_media\metiers\récolteur.png" alt="Récolteur" data-no-zoom>
       <h3>Récolteur</h3>
     </a>
