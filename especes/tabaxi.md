@@ -12,7 +12,7 @@
   <div class="texte">
     <p>Les Tabaxis sont un peuple varié tant dans son attitude que dans son apparence.</p>
     <p>Élancés, les tabaxis sont en général plus grands que l'humain moyen. Leur fourrure est tâchée, tigrée ou unie selon. Comme la plupart des félins, ils portent une queue et des griffes. Leurs yeux ont une pupille verticales et sont général verts ou jaunes.</p>
-    <a href="/#/_404" target="_blank">En savoir plus sur l'espèce...</a>
+    <a href="/#/cultures/culture-tabaxi.md" target="_blank">En savoir plus sur l'espèce...</a>
     <div class="summary">
       <p><strong>Taille :</strong> Petite (1,20m à 1,50m) Moyenne (1,50m à 2,10m) selon le choix initial</p>
       <p><strong>Vitesse :</strong> 3 tiles</p>

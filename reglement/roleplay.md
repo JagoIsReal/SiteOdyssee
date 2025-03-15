@@ -1,5 +1,7 @@
 # Roleplay
 
+---
+
 ## Vous jouez toujours votre personnage
 
 Lorsque vous êtes connecté sur le serveur, vous êtes considéré RP. Vous ne pouvez pas dire que vous vous situez en un lieu de manière HRP ou que vous ne faites que passer HRP pour esquiver le roleplay qui vient à vous. Si vous souhaitez quitter la scène en cours, vous devez le signaler par une emote déclarant que votre personnage a l'intention de partir tout en donnant un temps raisonnable pour que celles et ceux autour puissent y répondre.

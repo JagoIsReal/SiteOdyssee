@@ -15,7 +15,7 @@
     <p>Abyssal : A l'apparence plus agressive, ces tieffelins ont des cornes agressives, parfois même des canines proéminentes ainsi qu'une odeur particulière qui les accompagne vu que la plupart d'entre eux ont du sang de démon qui coule au sein de leurs veines.</p>
     <p>Chtonien : Certains de ces tieffelins sont d'apparence presque cadavérique ou au contraire portent une beauté succubienne.</p>
     <p>Infernal : L'odeur de soufre ou de fumée peut les accompagner. Leurs cornes et leurs queues sont au plus proches des diables et leurs yeux dorés sont un trait plutôt commun.</p>
-    <a href="/#/_404" target="_blank">En savoir plus sur l'espèce...</a>
+    <a href="/#/cultures/culture-tieffelin.md" target="_blank">En savoir plus sur l'espèce...</a>
     <div class="summary">
       <p><strong>Taille :</strong> Petite (1,20m à 1,50m) Moyenne (1,50m à 2,10m) selon le choix initial</p>
       <p><strong>Vitesse :</strong> 3 tiles</p>

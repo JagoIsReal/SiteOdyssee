@@ -1,5 +1,7 @@
 # Communautaire
 
+---
+
 ## Soyez respectueux
 
 Tous les membres de la communauté sont tenus de respecter le règlement et d'adopter une attitude respectueuse. Nous aurons une tolérance zéro face à la toxicité et la malveillance envers autrui. Si vous ne partagez pas le même point de vue avec une personne, nous attendons une discussion constructive ou le silence.

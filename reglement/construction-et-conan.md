@@ -1,5 +1,7 @@
 # Construction et Conan
 
+---
+
 ## Ayez un clan
 
 Dès lors que vous quittez la zone de départ, il faut que vous soyez dans un clan (même si vous êtes seul). Les constructions n'appartenant pas à un clan seront amenés à être supprimé sans avertissement quand ils seront trouvés. **Aucun objet ne sera rendu**.

@@ -9,5 +9,7 @@
     * [Langues](langues.md)
 
 * Codex <i class="fa-solid fa-chevron-down fa-2xs"></i>
+    * [Cultures](cultures.md)
     * [Équipement](equipement.md)
+    * [Panthéon](pantheon.md)
     * [Sorts](sorts.md)

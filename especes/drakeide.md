@@ -12,7 +12,7 @@
   <div class="texte">
     <p>Les ancêtres des Drakéides sont nés des œufs de dragons chromatiques et métalliques.</p>
     <p>Ils ressemblent à des dragons bipèdes et sans ailes. Des écailles, des yeux légèrement brillants et plutôt massifs avec des cornes sur la tête et une queue. La couleur et certains autres aspects sont réminiscents de leurs ancêtres draconiques.</p>
-    <a href="/#/_404" target="_blank">En savoir plus sur l'espèce...</a>
+    <a href="/#/cultures/culture-drakeide.md" target="_blank">En savoir plus sur l'espèce...</a>
     <div class="summary">
       <p><strong>Taille :</strong> Moyenne (1,50m à 2,10m)</p>
       <p><strong>Vitesse :</strong> 3 tiles</p>

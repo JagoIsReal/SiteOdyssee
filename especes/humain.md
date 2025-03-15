@@ -12,7 +12,7 @@
   <div class="texte">
     <p>Présents dans tout le multivers, les humains sont aussi variés que nombreux.</p>
     <p>Diversifié au possible, on en trouve de tout type et couleur dans les quatre coins du monde.</p>
-    <a href="/#/_404" target="_blank">En savoir plus sur l'espèce...</a>
+    <a href="/#/cultures/culture-humain.md" target="_blank">En savoir plus sur l'espèce...</a>
     <div class="summary">
       <p><strong>Taille :</strong> Petite (1,20m à 1,50m) Moyenne (1,50m à 2,10m) selon le choix initial</p>
       <p><strong>Vitesse :</strong> 3 tiles</p>
