@@ -12,7 +12,7 @@
   <div class="texte">
     <p>Les Goliaths sont de lointains descendants de géants et recherchent des hauteurs supérieures à celles atteintes par leurs ancêtres.</p>
     <p>Ils sont grands et massifs avec des arcades sourcillières prononcées et des yeux d'un bleu ou vert parfois légèrement lumineux. Leur peau est comparée à de la pierre et porte des marques verticales et symétriques sur l'entièreté du corps. Les mâles sont irrémédiablement chauve mais la totalité des goliaths ont des aspects réminiscents de leur ancêtre (certains ressembleront aux géants de pierre, d'autres aux géants de feu,etc.)</p>
-    <a href="#" target="_blank">En savoir plus sur l'espèce...</a>
+    <a href="/_404.md" target="_blank">En savoir plus sur l'espèce...</a>
     <div class="summary">
       <p><strong>Taille :</strong> Moyenne (2,10m à 2,40m)</p>
       <p><strong>Vitesse :</strong> 4 tiles</p>

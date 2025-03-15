@@ -12,7 +12,7 @@
   <div class="texte">
     <p>Les Aasimars sont des mortels qui portent une étincelle des plans supérieurs dans leur âme.</p>
     <p>Ils peuvent émerger de n'importe quelle population de mortel. Ils ressemblent à leurs parents et possèdent quelques aspects qui pointent vers leur héritage céleste comme des tâches de rousseurs argentés, des yeux lumineux, un halo, une couleur de peau d'ange (argenté, vert opalescent ou rouge cuivre).</p>
-    <a href="#" target="_blank">En savoir plus sur l'espèce...</a>
+    <a href="/_404.md" target="_blank">En savoir plus sur l'espèce...</a>
     <div class="summary">
       <p><strong>Taille :</strong> Moyenne (1,50m à 2,10m) ou Petite (1,20m à 1,40m) selon l'espèce initiale</p>
       <p><strong>Vitesse :</strong> 3 tiles</p>

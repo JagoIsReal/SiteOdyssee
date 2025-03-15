@@ -12,7 +12,7 @@
   <div class="texte">
     <p>Un peuple ailé originaire du plan élémentaire de l'air, les aarakocras s'élèvent dans le ciel partout où ils errent.</p>
     <p>Leurs visages combinent les traits du perroquet et de l'aigle. Ils sont munis d'ailes et de serres. Les femelles tendent vers le brun, le gris ou le bleu tandis que les mâles ont une coloration plus châtoyante (rouge, orange ou encore jaune).</p>
-    <a href="#" target="_blank">En savoir plus sur l'espèce...</a>
+    <a href="/_404.md" target="_blank">En savoir plus sur l'espèce...</a>
     <div class="summary">
       <p><strong>Taille :</strong> Moyenne (1,30m à 1,50m)</p>
       <p><strong>Vitesse :</strong> 3 tiles</p>

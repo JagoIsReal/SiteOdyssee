@@ -8,7 +8,11 @@
 | Armure en cuir | 11 + Mod. Dex | -- | -- |
 | Armure en cuir clouté | 12 + Mod. Dex | -- | -- |
 
-![](_media/equipement/armures/legers-boucliers.png)
+| Nom | Classe d'armure | Force | Discrétion |
+| :- | :- | :- | :- |
+| Bouclier | +2 | -- | -- |
+
+<img src="_media/equipement/legers-boucliers.png" alt="Armures légères et boucliers" class="armor" data-no-zoom />
 
 ## Armures intermédiaires
 
@@ -20,6 +24,8 @@
 | Cuirasse | 14 + Mod. Dex (max +2) | -- | -- |
 | Demi-plate | 15 + Mod. Dex (max +2) | -- | Désavantage |
 
+<img src="_media/equipement/intermediaires.png" alt="Armures intermédiaires" class="armor" data-no-zoom />
+
 ## Armures lourdes
 
 | Nom | Classe d'armure | Force | Discrétion |
@@ -29,8 +35,4 @@
 | Clibanion | 17 | For 15 | Désavantage |
 | Harnois | 18 | For 15 | Désavantage |
 
-## Bouclier
-
-| Nom | Classe d'armure | Force | Discrétion |
-| :- | :- | :- | :- |
-| Bouclier | +2 | -- | -- |
+<img src="_media/equipement/lourds.png" alt="Armures lourdes" class="armor" data-no-zoom />

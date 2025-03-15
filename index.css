@@ -244,6 +244,11 @@
     height: auto;
   }
 
+  .armor {
+    width: 80%;
+    height: auto;
+  }
+
   /* Fin introduction */
   
   #back-to-top {

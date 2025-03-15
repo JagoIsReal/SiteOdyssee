@@ -12,7 +12,7 @@
   <div class="texte">
     <p>Les gnomes sont des êtres magiques créés par les dieux de l'invention, des illusions et de la vie souterraine.</p>
     <p>Leurs visages combinent les traits du perroquet et de l'aigle. Ils sont munis d'ailes et de serres. Les femelles tendent vers le brun, le gris ou le bleu tandis que les mâles ont une coloration plus châtoyante (rouge, orange ou encore jaune).</p>
-    <a href="#" target="_blank">En savoir plus sur l'espèce...</a>
+    <a href="/_404.md" target="_blank">En savoir plus sur l'espèce...</a>
     <div class="summary">
       <p><strong>Taille :</strong> Petite (1,20m à 1,40m)</p>
       <p><strong>Vitesse :</strong> 3 tiles</p>
