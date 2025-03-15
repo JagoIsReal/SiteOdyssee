@@ -14,7 +14,7 @@
   <div class="texte">
     <p>Les Orcs sont équipés de dons pour les aider à parcourir de grandes plaines, de vastes cavernes et des mers agitées.</p>
     <p>En général grands et massifs, les orcs ont la peau grise, des oreilles taillées en pointe et des canines inférieures proéminentes.</p>
-    <a href="/_404.md" target="_blank">En savoir plus sur l'espèce...</a>
+    <a href="/#/_404" target="_blank">En savoir plus sur l'espèce...</a>
     <div class="summary">
       <p><strong>Taille :</strong> Moyenne (1,80m à 2,10m)</p>
       <p><strong>Vitesse :</strong> 3 tiles</p>

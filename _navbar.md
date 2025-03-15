@@ -1,4 +1,4 @@
-* [Accueil](/)
+* [Accueil](/#)
 * [Règlement](règlement.md)
 
 * Création de personnage <i class="fa-solid fa-chevron-down fa-2xs"></i>

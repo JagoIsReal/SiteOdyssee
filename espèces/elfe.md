@@ -14,7 +14,7 @@
   <div class="texte">
     <p>La curiosité des Elfes a conduit beaucoup d'entre eux à explorer d'autres plans d'existence.</p>
     <p>Plus fins que les humains, ils se distinguent par des oreilles pointues et des changements notables selon la lignée. Les drows ont la peau sombre et les cheveux blancs tandis que les haut-elfes sont eux-même différents selon si ceux-ci sont du soleil ou de la lune. Les elfes des bois quant à eux ont généralement une peau cuivrée ou verte avec des yeux hazels.</p>
-    <a href="/_404.md" target="_blank">En savoir plus sur l'espèce...</a>
+    <a href="/#/_404" target="_blank">En savoir plus sur l'espèce...</a>
     <div class="summary">
       <p><strong>Taille :</strong> Moyenne (1,50m à 2,00m)</p>
       <p><strong>Vitesse :</strong> 3 tiles</p>

@@ -12,7 +12,7 @@
   <div class="texte">
     <p>Les Halfelins possèdent un esprit courageux et aventureux qui les conduit dans des voyages de découverte.</p>
     <p>Assez diversifié, ils sont dans la forme des petits humains aux proportions d'adulte. Les hommes ont du mal à faire pousser une barbe correcte et ont donc tendance à porter les favoris. Ils apportent une importance particulière à leur chevelure qui se veut souvent complexe ou étoffée.</p>
-    <a href="/_404.md" target="_blank">En savoir plus sur l'espèce...</a>
+    <a href="/#/_404" target="_blank">En savoir plus sur l'espèce...</a>
     <div class="summary">
       <p><strong>Taille :</strong> Petite (1,20m à 1,40m)</p>
       <p><strong>Vitesse :</strong> 3 tiles</p>

@@ -26,7 +26,7 @@ Chaque personnage est en mesure de connaître un métier. Ceux-ci ne sont pas li
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="/#/métiers/forgeron">
+    <a href="//#/métiers/forgeron">
       <img src="_media\metiers\forgeron.png" alt="Forgeron" data-no-zoom>
       <h3>Forgeron</h3>
     </a>
