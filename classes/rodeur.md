@@ -1,7 +1,7 @@
 <div class="icon-container">
   <img src="_media/classes/rodeur.png" alt="Rôdeur" class="icon-title" data-no-zoom />
 
-# Rôdeur <!-- {docsify-ignore} -->
+# Rodeur <!-- {docsify-ignore} -->
 
 </div>
 

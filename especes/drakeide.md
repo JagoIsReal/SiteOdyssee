@@ -1,7 +1,7 @@
 <div class="icon-container">
   <img src="_media/especes/drakeide.png" alt="Drakéide" class="icon-r-title" data-no-zoom />
 
-# Drakéide <!-- {docsify-ignore} -->
+# Drakeide <!-- {docsify-ignore} -->
 
 </div>
 

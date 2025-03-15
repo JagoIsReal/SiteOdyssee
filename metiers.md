@@ -1,4 +1,4 @@
-# Métiers  <!-- {docsify-ignore} -->
+# Metiers  <!-- {docsify-ignore} -->
 
 ---
 
