@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/Odyssee.png)
+![logo](_media/odyssee.png)
 
 > Serveur RP OneD&D - Conan Exiles
 
