@@ -16,4 +16,4 @@
 | **Caractéristiques** | Force, Dextérité, Sagesse |
 | **Dons** | Bagarreur de taverne |
 | **Compétences maîtrisées** | Acrobatie et Perception |
-| **Équipement** | *Dague, 48 PO |
+| **Équipement** | Dague, 48 PO |

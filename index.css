@@ -202,6 +202,10 @@
     text-align: justify;
   }
 
+  .bold-text {
+    font-weight: bold;
+  }
+
   .summary {
     margin-top: 8%;
     line-height: 100%;

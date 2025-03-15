@@ -34,7 +34,7 @@
 - **Héritage infernal :** Votre héritage vous offre des capacités surnaturelles, choisissez en une. Au niveau 3 et 5, vous gagnez un sort spécifique. Ce sort est toujours préparé et peut être incanté une fois sans utiliser d'emplacement de sort. Vous pouvez l'incanter ainsi à nouveau après un long repos. Il est possible d'incanter ce sort avec n'importe quel emplacement de sort égal ou supérieur. La caractéristique d'incantation est choisie au moment de la sélection de la lignée (entre intelligence, sagesse et charisme).
   | Héritage | Niveau 1 | Niveau 3 | Niveau 5 |
   | - | - | - | - |
-  | Abyssal | Vous avez une résistance aux dégâts de poison. Vous connaissez le sort mineur [Bouffée de poison]() | [Rayon empoisonné]() | [Immobilisation de personne]() |
-  | Chtonien | Vous avez une résistance aux dégâts nécrotiques. Vous connaissez le sort mineur [Contact glacial]() | [Simulacre de vie]() | [Rayon d'affaiblissement]() |
-  | Infernal | Vous avez une résistance aux dégâts de feu. Vous connaissez le sort mineur [Trait de feu]() | [Représailles infernales]() | [Ténèbres]() |
-- **Présence d'autre monde :** Vous connaissez le sort mineur [Thaumaturgie](). Ce sort est lancé avec la même caractéristique d'incantation que vous avez choisi pour votre héritage infernal.
+  | Abyssal | Vous avez une résistance aux dégâts de poison. Vous connaissez le sort mineur [Bouffée de poison](sorts.md#bouffée-de-poison) | [Rayon empoisonné](sorts.md#rayon-empoisonné) | [Immobilisation de personne](sorts.md#immobilisation-de-personne) |
+  | Chtonien | Vous avez une résistance aux dégâts nécrotiques. Vous connaissez le sort mineur [Contact glacial](sorts.md#contact-glacial) | [Simulacre de vie](sorts.md#simulacre-de-vie) | [Rayon d'affaiblissement](sorts.md#rayon-d39affaiblissement) |
+  | Infernal | Vous avez une résistance aux dégâts de feu. Vous connaissez le sort mineur [Trait de feu](sorts.md#trait-de-feu) | [Représailles infernales](sorts.md#représailles-infernales) | [Ténèbres](sorts.md#ténèbres) |
+- **Présence d'autre monde :** Vous connaissez le sort mineur [Thaumaturgie](sorts.md#thaumaturgie). Ce sort est lancé avec la même caractéristique d'incantation que vous avez choisi pour votre héritage infernal.

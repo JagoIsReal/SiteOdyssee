@@ -33,9 +33,9 @@
 - **Lignée elfique :** Votre lignage vous offre des capacités surnaturelles, choisissez en une. Au niveau 3 et 5, vous gagnez un sort spécifique. Ce sort est toujours préparé et peut être incanté une fois sans utiliser d'emplacement de sort. Vous pouvez l'incanter ainsi à nouveau après un long repos. Il est possible d'incanter ce sort avec n'importe quel emplacement de sort égal ou supérieur. La caractéristique d'incantation est choisie au moment de la sélection de la lignée (entre intelligence, sagesse et charisme).
   | Lignée | Niveau 1 | Niveau 3 | Niveau 5 |
   | - | - | - | - |
-  | Drow | [Lumière dansantes]() |  [Feu féérique]() | [Ténèbres]() |
-  | Haut elfe | [Prestidigitation]() - Lorsque vous terminez un long repos, vous pouvez remplacer ce sort mineur par un autre sort mineur de la liste des sorts du magicien. | [Détection de la magie]() | [Foulée brumeuse]() |
-  | Elfe des bois | Votre vitesse passe à 4 tiles. [Druidisme](). | [Grande foulée]() | [Passage sans traces]() |
+  | Drow | [Lumière dansantes](sorts.md#lumières-dansantes) |  [Feu féérique](sorts.md#feu-féérique) | [Ténèbres](sorts.md#ténèbres) |
+  | Haut elfe | [Prestidigitation](sorts.md#prestidigitation) - Lorsque vous terminez un long repos, vous pouvez remplacer ce sort mineur par un autre sort mineur de la liste des sorts du magicien. | [Détection de la magie](sorts.md#détection-de-la-magie) | [Foulée brumeuse](sorts.md#foulée-brumeuse) |
+  | Elfe des bois | Votre vitesse passe à 4 tiles. [Druidisme](sorts.md#druidisme). | [Grande foulée](sorts.md#grande-foulée) | [Passage sans traces](sorts.md#passage-sans-traces) |
 - **Ancêtre féérique :** Vous avez un avantage aux jets de sauvegarde sur la condition charmé (si vous voulez ne plus l'être ou si vous souhaitez l'éviter).
 - **Sens aiguisé :** Vous pouvez obtenir la maîtrise sur la compétence perspicacité, perception ou survie.
 - **Rêverie :** Vous n'avez pas besoin de dormir et la magie ne peut vous endormir. Votre long repos se termine en 4 heures si vous les passez en état de rêverie qui est semblable à une transe méditative durant laquelle vous restez conscient.

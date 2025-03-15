@@ -87,7 +87,7 @@ L'historique de votre personnage est un ensemble de caractéristiques qui repré
     </a>
   </div>
   <div class="gallery-item-small">
-    <a href="//#/historiques/sage">
+    <a href="/#/historiques/sage">
       <img src="_media\historiques\sage.png" alt="Sage" data-no-zoom>
       <h3>Sage</h3>
     </a>
