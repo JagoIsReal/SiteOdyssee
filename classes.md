@@ -4,7 +4,7 @@
 
 <div class="gallery">
   <div class="gallery-item">
-    <a href="classes/barbare.md">
+    <a href="classes/barbare">
       <img src="_media\classes\pres-barbare.png" alt="Barbare" data-no-zoom>
       <h3>Barbare</h3>
     </a>
